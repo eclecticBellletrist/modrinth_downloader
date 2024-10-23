@@ -1,12 +1,10 @@
 import aiohttp
 import asyncio
 import json
-import os
 from typing import List, Dict, Set, Literal
-import time
-from datetime import datetime
 import sys
 import re
+
 
 # Расширенные конфигурационные параметры
 CONFIG = {
@@ -30,19 +28,33 @@ CONFIG = {
         "MAX_RESOLUTION": 32,
         "PROGRESS_FILE": "textures_progress.json",
         "OUTPUT_FILE": "texture_links.json"
+    },
+
+     # Настройки для датапаков
+    "DATAPACKS_CONFIG": {
+        "BLACKLISTED_TAGS": {"utility"},
+        "PROGRESS_FILE": "datapacks_progress.json",
+        "OUTPUT_FILE": "datapack_links.json"
     }
+
 }
 
+# -------------------------------------------------------------------
+
 class ModrinthAPI:
-    def __init__(self, content_type: Literal["mods", "textures"]):
+    def __init__(self, content_type: Literal["mods", "textures"], auth_token: str = None):
         self.session = None
         self.processed_pages: Set[int] = set()
         self.content_type = content_type
-        self.config = CONFIG["MODS_CONFIG"] if content_type == "mods" else CONFIG["TEXTURES_CONFIG"]
+        self.config = (
+            CONFIG["MODS_CONFIG"] if content_type == "mods" 
+            else CONFIG["TEXTURES_CONFIG"] if content_type == "textures"
+            else CONFIG["DATAPACKS_CONFIG"]
+        )
         self.load_progress()
-        self.spinner_chars = ['|', '/', '-', '\\']
-        self.spinner_idx = 0
         self.current_page = 0
+        self.auth_token = auth_token  # Добавлено
+
 
     def load_progress(self) -> None:
         try:
@@ -63,11 +75,6 @@ class ModrinthAPI:
         if self.session:
             await self.session.close()
             self.session = None
-
-    def update_page_spinner(self) -> None:
-        self.spinner_idx = (self.spinner_idx + 1) % len(self.spinner_chars)
-        sys.stdout.write(f'\rОбработка страницы {self.current_page}... {self.spinner_chars[self.spinner_idx]}')
-        sys.stdout.flush()
 
     def format_line(self, name: str, status: str) -> str:
         padded_name = f"- {name} -"
@@ -92,23 +99,38 @@ class ModrinthAPI:
 
     async def get_content_list(self, page: int) -> List[Dict]:
         url = f"{CONFIG['API_BASE_URL']}/search"
+        
+        # Установка фильтров в зависимости от типа контента
+        if self.content_type == "mods":
+            facets = [["project_type:mod"]]
+        elif self.content_type == "textures":
+            facets = [["project_type:resourcepack"]]
+        else:
+            facets = [["project_type:datapack"]]
+
         params = {
             "offset": page * CONFIG['BATCH_SIZE'],
-            "limit": CONFIG['BATCH_SIZE']
+            "limit": CONFIG['BATCH_SIZE'],
+            "facets": json.dumps(facets)
         }
-        
-        # Добавляем специфичные параметры для текстурпаков
-        if self.content_type == "textures":
-            params["facets"] = '["project_type:resourcepack"]'  # Исправленный формат
-        else:
-            params["facets"] = '["project_type:mod"]'  # Добавлен фильтр для модов
-        
-        async with self.session.get(url, params=params) as response:
+
+        headers = {
+            "User-Agent": "your_github_username/project_name/version"
+        }
+        if self.auth_token:
+            headers["Authorization"] = self.auth_token
+
+        async with self.session.get(url, params=params, headers=headers) as response:
             if response.status == 200:
                 data = await response.json()
                 return data.get('hits', [])
             else:
-                raise Exception(f"API error: {response.status}")
+                response_text = await response.text()
+                raise Exception(f"API error: {response.status} - {response_text}")
+
+
+
+
 
     async def get_version_details(self, project_id: str) -> Dict:
         url = f"{CONFIG['API_BASE_URL']}/project/{project_id}/version"
@@ -125,7 +147,7 @@ class ModrinthAPI:
         mod_name = mod['title']
 
         if any(tag in self.config['BLACKLISTED_TAGS'] for tag in mod.get('categories', [])):
-            print(self.format_line(mod_name, "Пропущен (теги) ❌"))
+            print(self.format_line(mod_name, "Пропущен (теги) ⏩"))
             return None
 
         version = await self.get_version_details(mod['project_id'])
@@ -147,13 +169,13 @@ class ModrinthAPI:
         
         # Проверка версии Minecraft
         if not self.check_minecraft_version(texture.get('versions', [])):
-            print(self.format_line(texture_name, "Пропущен (версия) ❌"))
+            print(self.format_line(texture_name, "Пропущен (версия) ⏩"))
             return None
             
         # Проверка разрешения
         resolution = self.extract_resolution(texture.get('description', ''))
         if resolution > self.config["MAX_RESOLUTION"]:
-            print(self.format_line(texture_name, f"Пропущен ({resolution}x) ❌"))
+            print(self.format_line(texture_name, f"Пропущен ({resolution}x) ⏩"))
             return None
 
         version = await self.get_version_details(texture['project_id'])
@@ -170,6 +192,28 @@ class ModrinthAPI:
             'download_url': version['files'][0]['url'] if version['files'] else None,
             'icon_url': texture.get('icon_url', None)
         }
+    
+    async def process_datapack(self, datapack: Dict) -> Dict:
+        """Обработка датапака"""
+        datapack_name = datapack['title']
+
+        if any(tag in self.config['BLACKLISTED_TAGS'] for tag in datapack.get('categories', [])):
+            print(self.format_line(datapack_name, "Пропущен (теги) ⏩"))
+            return None
+
+        version = await self.get_version_details(datapack['project_id'])
+        if not version:
+            print(self.format_line(datapack_name, "Ошибка версии ❌"))
+            return None
+
+        print(self.format_line(datapack_name, "Успешно ✅"))
+        return {
+            'name': datapack_name,
+            'version': version['version_number'],
+            'download_url': version['files'][0]['url'] if version['files'] else None,
+            'icon_url': datapack.get('icon_url', None)
+        }
+
 
     async def process_page(self, page: int) -> List[Dict]:
         self.current_page = page
@@ -185,8 +229,10 @@ class ModrinthAPI:
             await asyncio.sleep(CONFIG['DELAY_BETWEEN_REQUESTS'])
             if self.content_type == "mods":
                 result = await self.process_mod(item)
-            else:
+            elif self.content_type == "textures":
                 result = await self.process_texture(item)
+            else:  # Обработка датапаков
+                result = await self.process_datapack(item)
             
             if result:
                 results.append(result)
@@ -194,6 +240,7 @@ class ModrinthAPI:
         self.processed_pages.add(page)
         self.save_progress()
         return results
+
 
     def save_results(self, results: List[Dict]) -> None:
         try:
@@ -226,15 +273,23 @@ class ModrinthAPI:
             await self.close_session()
 
 async def main():
-    # Запуск сбора модов
-    print("=== Сбор модов ===")
-    mods_api = ModrinthAPI("mods")
-    await mods_api.run()
+    # Пример передачи токена
+    auth_token = "mrp_LPvtSV0PdttV7Zgt2uQx92lA9xy260u6zy6J17fgDmY1x4ADMBQkJexOH8Tt"  # Убедитесь, что вы заменили на ваш токен
+    # # Запуск сбора модов
+    # print("=== Сбор модов ===")
+    # mods_api = ModrinthAPI("mods")
+    # await mods_api.run()
     
-    # Запуск сбора текстурпаков
-    print("\n=== Сбор текстурпаков ===")
-    textures_api = ModrinthAPI("textures")
-    await textures_api.run()
+    # # Запуск сбора текстурпаков
+    # print("\n=== Сбор текстурпаков ===")
+    # textures_api = ModrinthAPI("textures", auth_token=auth_token)
+    # await textures_api.run()
+
+    # Запуск сбора датапаков
+    print("\n=== Сбор датапаков ===")
+    datapacks_api = ModrinthAPI("datapacks", auth_token=auth_token)
+    await datapacks_api.run()
+
 
 if __name__ == "__main__":
     asyncio.run(main())

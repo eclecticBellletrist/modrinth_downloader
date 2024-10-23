@@ -1,0 +1,1916 @@
+[
+  {
+    "name": "Dungeons and Taverns",
+    "version": "v4.5+mod",
+    "download_url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UurMsmE5/dungeons-and-taverns-v4.5.jar",
+    "icon_url": "https://cdn.modrinth.com/data/tpehi7ww/429ba22d212868940cdd82465df949ac51c9791e_96.webp"
+  },
+  {
+    "name": "Terralith",
+    "version": "2.5.5",
+    "download_url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/4LsxILTH/Terralith_1.21_v2.5.5.zip",
+    "icon_url": "https://cdn.modrinth.com/data/8oi3bsk5/1959d924a1088944bbf07a06ba523726112d7e7a_96.webp"
+  },
+  {
+    "name": "Tectonic",
+    "version": "2.4.1a",
+    "download_url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/3puAlKOm/tectonic-neoforge-1.21-2.4.1a.jar",
+    "icon_url": "https://cdn.modrinth.com/data/lWDHr9jE/c7a4e685e92e64d07860ecee7b8669022fd0985d_96.webp"
+  },
+  {
+    "name": "Geophilic",
+    "version": "3.1.4",
+    "download_url": "https://cdn.modrinth.com/data/hl5OLM95/versions/1ChFYVG4/Geophilic%20v3.1.4%20f15-57.zip",
+    "icon_url": "https://cdn.modrinth.com/data/hl5OLM95/6846fa80f84d2baa0dd07f8ee65b6f10bf223a84_96.webp"
+  },
+  {
+    "name": "Spawn Animations",
+    "version": "1.9.4+mod",
+    "download_url": "https://cdn.modrinth.com/data/zrzYrlm0/versions/pQ0HEnlC/spawnanimations-v1.9.4-mc1.17x-1.20x-mod.jar",
+    "icon_url": "https://cdn.modrinth.com/data/zrzYrlm0/f1d1fea6dd27a539d04c46fdd98d6efcfeb90b9a.png"
+  },
+  {
+    "name": "Explorify",
+    "version": "1.6.2",
+    "download_url": "https://cdn.modrinth.com/data/HSfsxuTo/versions/yRSH0sWM/Explorify%20v1.6.2%20f10-48.jar",
+    "icon_url": "https://cdn.modrinth.com/data/HSfsxuTo/e036a417f857abd937326db5c131296ad88bad5b_96.webp"
+  },
+  {
+    "name": "Nullscape",
+    "version": "1.2.8",
+    "download_url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/bEExvezI/Nullscape_1.21_v1.2.8.zip",
+    "icon_url": "https://cdn.modrinth.com/data/LPjGiSO4/30249e0548b8643b1559889eab585683cb397f3a_96.webp"
+  },
+  {
+    "name": "From The Fog",
+    "version": "1.9.3",
+    "download_url": "https://cdn.modrinth.com/data/p1WH6sHr/versions/4VXWFsMc/From-The-Fog-1.20.3-1.20.4-v1.9.3-Forge-Fabric.jar",
+    "icon_url": "https://cdn.modrinth.com/data/p1WH6sHr/776f9c1e302b54fb545d73bfbbc6d3f85d364e72_96.webp"
+  },
+  {
+    "name": "Incendium",
+    "version": "5.3.5",
+    "download_url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/b9pN4Twz/Incendium_1.20_v5.3.5.zip",
+    "icon_url": "https://cdn.modrinth.com/data/ZVzW5oNS/65c8dcaaf260e5b2182c228a1a442c792a7c4782.jpeg"
+  },
+  {
+    "name": "Create: Structures",
+    "version": "0.1.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/IAnP4np7/versions/nqsTHZwx/create-structures-0.1.1-1.20.1-FABRIC.jar",
+    "icon_url": "https://cdn.modrinth.com/data/IAnP4np7/694d235f12ba11b0c6e6cd9428dab3cfcf233d10_96.webp"
+  },
+  {
+    "name": "Ender Dragon Fight Remastered",
+    "version": "5.0-beta3+mod",
+    "download_url": "https://cdn.modrinth.com/data/HQsBdHGd/versions/KKs5IJ0J/edf-remastered-5.0-beta3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/HQsBdHGd/285b59efcf0b9cba252b31b6a800afe5cb5113cc_96.webp"
+  },
+  {
+    "name": "True Ending: Ender Dragon Overhaul",
+    "version": "1.1.2d",
+    "download_url": "https://cdn.modrinth.com/data/MCnBYP0b/versions/FBAAEUsA/true-ending-v1.1.2d.jar",
+    "icon_url": "https://cdn.modrinth.com/data/MCnBYP0b/7c5a3e36e2509d4de48eabd29824d53ef4fb3158_96.webp"
+  },
+  {
+    "name": "Hearths",
+    "version": "1.0.1",
+    "download_url": "https://cdn.modrinth.com/data/XCIMrYn0/versions/pASfBwdH/Hearths%20v1.0.1%20f12-48.jar",
+    "icon_url": "https://cdn.modrinth.com/data/XCIMrYn0/92b9b8dc8ba77c1c92c47b7364a31544a7326633_96.webp"
+  },
+  {
+    "name": "CTOV - Farmer Delight Compat",
+    "version": "2.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/CdRC4fyI/versions/qWJ0YcQq/ctov-farmers-delight-compat-2.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/CdRC4fyI/629aa10fffbdce39b88654438c7f478206882538_96.webp"
+  },
+  {
+    "name": "Tidal Towns",
+    "version": "1.3.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/8cUwJXWB/tidal-towns-1.3.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/EEIwvQVo/5bd6723d1d675ca80172884f936d31550dcc07e7_96.webp"
+  },
+  {
+    "name": "CTOV - Friends and Foes Compat",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/kawJN2LZ/versions/BbKorFuj/ctov-friends-and-foes-compat-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/kawJN2LZ/8120c050637bb06fea9fb115b61f913f8fe7ac4e_96.webp"
+  },
+  {
+    "name": "Repurposed Structures - Farmer's Delight Compat",
+    "version": "7",
+    "download_url": "https://cdn.modrinth.com/data/P5wB88AS/versions/PKPVpBYy/repurposed_structures_farmers_delight_compat_v7.jar",
+    "icon_url": "https://cdn.modrinth.com/data/P5wB88AS/575dfe8d40918fb9825be29187a79ceaa22509d8_96.webp"
+  },
+  {
+    "name": "Repurposed Structures - Friends and Foes Compat",
+    "version": "8",
+    "download_url": "https://cdn.modrinth.com/data/UYd23ZmY/versions/EbNpV2X1/repurposed_structures_friends_and_foes_compat_v8.jar",
+    "icon_url": "https://cdn.modrinth.com/data/UYd23ZmY/84fb4a54d4f484b1093cc43e3b1d18706bd8d470_96.webp"
+  },
+  {
+    "name": "Hopo Better Underwater Ruins",
+    "version": "1.2.0",
+    "download_url": "https://cdn.modrinth.com/data/BuWCQzqf/versions/YnxQTWyB/HopoBetterUnderwaterRuins-%5B1.21%5D-1.2.0b.jar",
+    "icon_url": "https://cdn.modrinth.com/data/BuWCQzqf/3fcbab1a51a0b56df0e5a3e033ff0a2c8243b666_96.webp"
+  },
+  {
+    "name": "CTOV - Villagers Plus Compat",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/UiaFErsS/versions/JsH6Gt4b/ctov-villagers-plus-compat-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/UiaFErsS/92731c9f4101417677b97cdd724d22c05b084ec1_96.webp"
+  },
+  {
+    "name": "Tool Trims",
+    "version": "2.2.1",
+    "download_url": "https://cdn.modrinth.com/data/uXeEiQk1/versions/oo24NnEP/tool-trims-DP-v2-2-1a.zip",
+    "icon_url": "https://cdn.modrinth.com/data/uXeEiQk1/dcdb4ba890e3615f2e8552b6337537f178fda650_96.webp"
+  },
+  {
+    "name": "CTOV - Beautify Compat",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/iunZDj0l/versions/elBmQR7P/ctov-beautify-compat-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/iunZDj0l/af0a92516d1d92ef56691188b0c72c2449f4d4ee_96.webp"
+  },
+  {
+    "name": "Blossom Blade",
+    "version": "1.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/UMmSTwE0/versions/MWt6jygU/blossom-blade-1.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/UMmSTwE0/79cfb97389bcd7538ebd40299298254ba6355089_96.webp"
+  },
+  {
+    "name": "Amplified Nether",
+    "version": "1.2.5",
+    "download_url": "https://cdn.modrinth.com/data/wXiGiyGX/versions/i4qj8ISl/Amplified_Nether_1.21_v1.2.5.zip",
+    "icon_url": "https://cdn.modrinth.com/data/wXiGiyGX/6673676af05cb98985909f2378ff0f87ee951401_96.webp"
+  },
+  {
+    "name": "Mob Captains",
+    "version": "v3.3.0",
+    "download_url": "https://cdn.modrinth.com/data/7tKn1fLd/versions/VPyWLrqB/MobCaptains-v3.3.0.zip",
+    "icon_url": "https://cdn.modrinth.com/data/7tKn1fLd/11df3d22634bf006db40063f045e6f9216ac16b8_96.webp"
+  },
+  {
+    "name": "Hopo Better Ruined Portals",
+    "version": "1.4.3",
+    "download_url": "https://cdn.modrinth.com/data/hIpLSyga/versions/NRM5UZpn/HopoBetterRuinedPortals-%5B1.21%5D-1.4.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/hIpLSyga/c18b32bbd7b01814740838e39b00abfa0227dadd_96.webp"
+  },
+  {
+    "name": "Villager Transportation",
+    "version": "1.3.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/vLUPqRLH/versions/5QUDFJXy/villager-transportation-1.3.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/vLUPqRLH/359e802ab9fcae30836b59c5943ae061f5059b50_96.webp"
+  },
+  {
+    "name": "Continents",
+    "version": "1.1.5",
+    "download_url": "https://cdn.modrinth.com/data/bQ5TJA1E/versions/94DuVevC/Continents_1.21_v1.1.5.zip",
+    "icon_url": "https://cdn.modrinth.com/data/bQ5TJA1E/c8ee533d54187c930c72e063cc4613cb3bbed787_96.webp"
+  },
+  {
+    "name": "Repurposed Structures - VillagerPlus Compat",
+    "version": "3",
+    "download_url": "https://cdn.modrinth.com/data/a5ESRz6Q/versions/tJEojbme/Repurposed_Structures-VillagersPlus_v3.zip",
+    "icon_url": "https://cdn.modrinth.com/data/a5ESRz6Q/898e208833eb8191b482201e9ddb24bd186933a9_96.webp"
+  },
+  {
+    "name": "Repurposed Structures - Better Strongholds Compat",
+    "version": "7",
+    "download_url": "https://cdn.modrinth.com/data/uJ0YMl4f/versions/4ZXlzK4c/Repurposed_Structures-Better_Strongholds_v7.zip",
+    "icon_url": "https://cdn.modrinth.com/data/uJ0YMl4f/f815bb725bac9155cd2dbf40482c5c6b82a4d45e_96.webp"
+  },
+  {
+    "name": "Repurposed Structures - Bountiful Compat",
+    "version": "3",
+    "download_url": "https://cdn.modrinth.com/data/CUfOpYVR/versions/2vRkUyMs/Repurposed_Structures-Bountiful_v3.zip",
+    "icon_url": "https://cdn.modrinth.com/data/CUfOpYVR/dd42ea742fc689d97eca5ce86bef6613dbc68194_96.webp"
+  },
+  {
+    "name": "Repurposed Structures - Better Dungeons Compat",
+    "version": "6",
+    "download_url": "https://cdn.modrinth.com/data/qUbxpIPN/versions/FYkLmuKF/Repurposed_Structures-Better_Dungeons_v6.zip",
+    "icon_url": "https://cdn.modrinth.com/data/qUbxpIPN/99ee1193de2153269d43917e10ae2a696e5c45d2_96.webp"
+  },
+  {
+    "name": "Repurposed Structures - Bygone Nether Compat",
+    "version": "2",
+    "download_url": "https://cdn.modrinth.com/data/8Xv7wkWd/versions/Sv5klMQb/Repurposed_Structures-Bygone_Nether_v2.zip",
+    "icon_url": "https://cdn.modrinth.com/data/8Xv7wkWd/36654609be0aab4d041ddf42eec1f2e5e09c3564_96.webp"
+  },
+  {
+    "name": "Repurposed Structures - Better Witch Huts Compat",
+    "version": "5",
+    "download_url": "https://cdn.modrinth.com/data/ePaZVJM4/versions/CTab3l6x/Repurposed_Structures-Better_Witch_Huts_v5.zip",
+    "icon_url": "https://cdn.modrinth.com/data/ePaZVJM4/23040c86c91b68a6644eb1c1a3d8fe12cae8f6e9_96.webp"
+  },
+  {
+    "name": "CTOV - Create: Structures",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/l9fldtN4/versions/hwClzDIs/ctov-create-structures-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/l9fldtN4/b78cf58479e4b886a5160ac9070c2dc1ec32bf5c_96.webp"
+  },
+  {
+    "name": "Dungeons and Taverns Stronghold Overhaul",
+    "version": "v2.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/rYocd2LE/versions/o7vVCevO/dungeons-and-taverns-stronghold-overhaul-v2.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/rYocd2LE/5494b7d3fae40e7909129ddd209ac43f2ed94547_96.webp"
+  },
+  {
+    "name": "MissingMons [cobblemon]",
+    "version": "3.1",
+    "download_url": "https://cdn.modrinth.com/data/jbbBrQVa/versions/xFaStQV8/Missingmon%20%5B3.1%20UB%20update%5D.zip",
+    "icon_url": "https://cdn.modrinth.com/data/jbbBrQVa/cc3ed263d0ce11f49c0924ddfd11375d3f9fba68.png"
+  },
+  {
+    "name": "Immersive structures",
+    "version": "2.2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/CVBAErky/versions/sBY4jR5x/immersive-structures-2.2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/CVBAErky/icon.jpeg"
+  },
+  {
+    "name": "Camps. Castles. Carriages.",
+    "version": "2.3.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/h9XxzZxe/versions/jVMIyq3x/camps_castles_carriages-2.3.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/h9XxzZxe/7b02229a33e96d92d50d7327013d398ce8789dcc_96.webp"
+  },
+  {
+    "name": "CTOV - Chef's delight Compat",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/6PJbKvJH/versions/MVTYiQSv/ctov-chefs-delight-compat-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/6PJbKvJH/1cd76129788650d827a6d711fcc7ec749dd9b12d_96.webp"
+  },
+  {
+    "name": "Eugene's Wealthy Plains Village",
+    "version": "1.0.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/XYcNKW0i/versions/zWjgoRWa/eugenes-wealthy-plains-village-1.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/XYcNKW0i/98c54ab4148f905fa5a17fed6bb8736ededa7395_96.webp"
+  },
+  {
+    "name": "Deeper Oceans",
+    "version": "1.0.2",
+    "download_url": "https://cdn.modrinth.com/data/yqHsPROA/versions/KtuCUlso/deeper-oceans-mc1.20-v1.0.2.zip",
+    "icon_url": "https://cdn.modrinth.com/data/yqHsPROA/f05f06237ea6f427f9bcad23314f5562a3bb5239.png"
+  },
+  {
+    "name": "Ultris: Boss Expansion",
+    "version": "5.6.9c+mod",
+    "download_url": "https://cdn.modrinth.com/data/tA7mQv7R/versions/2V8JegEj/ultris-v5.6.9c.jar",
+    "icon_url": "https://cdn.modrinth.com/data/tA7mQv7R/ff303968216da2c2a84718b0ee5ff061a479113c_96.webp"
+  },
+  {
+    "name": "Spellbound Weapons",
+    "version": "4.1.0c",
+    "download_url": "https://cdn.modrinth.com/data/egyqODDj/versions/A6hR4XOD/spellbound-weapons-v4.1.0c.jar",
+    "icon_url": "https://cdn.modrinth.com/data/egyqODDj/d632051e828b1f6ee9014a9bbe4a52bd3a614e75_96.webp"
+  },
+  {
+    "name": "RPG Origins",
+    "version": "1.4.3",
+    "download_url": "https://cdn.modrinth.com/data/2x88uc2n/versions/9Y7wlA5F/RPGOrigins-1.4.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/2x88uc2n/84314c4bb6f01788cb1642ebeead34b7655864cd.png"
+  },
+  {
+    "name": "Caves & Canyons",
+    "version": "1.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/uMcyUgtO/versions/zcPwqsTR/caves__canyons-1.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/uMcyUgtO/9eb441d172d1bceb22c4e4d7bf7785f4436e1ad8_96.webp"
+  },
+  {
+    "name": "Repurposed Structures - Better Ocean Monuments Compat",
+    "version": "7",
+    "download_url": "https://cdn.modrinth.com/data/WQ8xE11Z/versions/EU6PZcdv/Repurposed_Structures-Better_Monuments_v7.zip",
+    "icon_url": "https://cdn.modrinth.com/data/WQ8xE11Z/4f92a6ee239b77426af2ebb3fcfa2a9e0827263c_96.webp"
+  },
+  {
+    "name": "More Mobs",
+    "version": "1.5.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/HJR6V0I2/versions/1RMi2zHD/more_mobs-v1.5.2-mc1.14x-1.21x-mod.jar",
+    "icon_url": "https://cdn.modrinth.com/data/HJR6V0I2/2bcfe9433294aa506365749346912cf947ce6627.png"
+  },
+  {
+    "name": "Dungeons and Taverns Pillager Outpost Overhaul",
+    "version": "v3+mod",
+    "download_url": "https://cdn.modrinth.com/data/QIt10I7z/versions/9i9QkTly/dungeons-and-taverns-pillager-outpost-overhaul-v3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/QIt10I7z/5d53bfb8d8b863b0dba40fdeae12bd9e5914b755_96.webp"
+  },
+  {
+    "name": "Dungeons and Taverns Ancient City Overhaul",
+    "version": "v2.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/DNuNq5bb/versions/vB8zbHWo/dungeons-and-taverns-ancient-city-overhaul-v2.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/DNuNq5bb/7860ffd35ef9e89ff4b7a809d3ebab79a9a4709b_96.webp"
+  },
+  {
+    "name": "Repurposed Structures - Chef's Delight Compat",
+    "version": "3",
+    "download_url": "https://cdn.modrinth.com/data/5TWoVsKB/versions/8EHHDKUM/Repurposed_Structures-Chef%27s_Delight_v3.zip",
+    "icon_url": "https://cdn.modrinth.com/data/5TWoVsKB/e455d5eae016f9afe21731cadf32b12b636fc7fe_96.webp"
+  },
+  {
+    "name": "Ships",
+    "version": "3.0.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/M185nxi6/versions/qD0w21Oo/ships-3.0.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/M185nxi6/22ce26d8c32a683fa538539ac10fecff0ca79996_96.webp"
+  },
+  {
+    "name": "Mine Treasure",
+    "version": "1.4.6+mod",
+    "download_url": "https://cdn.modrinth.com/data/5y2R1ofr/versions/Slcj3YlH/mine-treasure-1.4.6.jar",
+    "icon_url": "https://cdn.modrinth.com/data/5y2R1ofr/2cb6a10739596365fafab87b415e8e2303eb2332_96.webp"
+  },
+  {
+    "name": "Sculk Expansion",
+    "version": "1.3.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/UNlTQZ8V/versions/aTlS2YJ3/sculk-expansion-1.3.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/UNlTQZ8V/25e542aa2a63274445122e2202a48f6fbb7dfa84.webp"
+  },
+  {
+    "name": "Roguecraft",
+    "version": "1.2.6",
+    "download_url": "https://cdn.modrinth.com/data/HtKjVijx/versions/Rme4c23R/Roguecraft%201.2.6%20-%20Data%20Pack.zip",
+    "icon_url": "https://cdn.modrinth.com/data/HtKjVijx/caab6c37fb6b98ff24efcaa7d2aaeb10a3c7543e_96.webp"
+  },
+  {
+    "name": "Stony Cliffs Are Cool",
+    "version": "1.1.2",
+    "download_url": "https://cdn.modrinth.com/data/boFjx9eY/versions/GRs8dpYU/Stony%20Cliffs%20FML%20v1.1.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/boFjx9eY/a903f2703f731874ecbff968be03fc307d6c55cd_96.webp"
+  },
+  {
+    "name": "Geophilic Reforged",
+    "version": "1.2.0B",
+    "download_url": "https://cdn.modrinth.com/data/d47NdDkH/versions/7IKbpUj8/GeophilicReforged-v1.2.0B.jar",
+    "icon_url": "https://cdn.modrinth.com/data/d47NdDkH/f7674acb9e2539409e75ebcfe3379d8ef0d8de03_96.webp"
+  },
+  {
+    "name": "Hopo Better Mineshaft",
+    "version": "1.2.7",
+    "download_url": "https://cdn.modrinth.com/data/9IxCUYAP/versions/fNcQlvtX/HopoBetterMineshaft-%5B1.21%5D-1.2.7.jar",
+    "icon_url": "https://cdn.modrinth.com/data/9IxCUYAP/cec74a303219fe436b0d4a43242186e598d1fadd_96.webp"
+  },
+  {
+    "name": "CTOV - Paladins & Priests compat",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/prik3cIi/versions/BmAdk4bU/ctov-paladins-n-priests-compat-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/prik3cIi/62d507229d234a57ffb71cbfef8d0341f277a97b_96.webp"
+  },
+  {
+    "name": "Scorched",
+    "version": "1.1.4a+mod",
+    "download_url": "https://cdn.modrinth.com/data/yID404Mu/versions/wbDwwj7V/scorched-1.1.4a.jar",
+    "icon_url": "https://cdn.modrinth.com/data/yID404Mu/213b2e3f9360e9e3bbb47e0e03859079b3eb9288_96.webp"
+  },
+  {
+    "name": "CTOV - Wizards Compat",
+    "version": "2.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/uZAJ8Zy7/versions/WOXAjPO8/ctov-wizards-compat-2.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/uZAJ8Zy7/09e0bbb1212172b3f65a9a9eb6c703af6a42dd64_96.webp"
+  },
+  {
+    "name": "CTOV - Gazebo compat",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/wE0hjz4k/versions/tDe5zXNn/ctov-gazebo-compat-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/wE0hjz4k/b45e709844788c9400cc4353206500e24f84e5c9_96.webp"
+  },
+  {
+    "name": "Stellarity",
+    "version": "2.2.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/bZgeDzN8/versions/KVE2J5Ss/Stellarity-2-2-1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/bZgeDzN8/29e68b62071c7a73e09c3ec8da8c0016d4582b55_96.webp"
+  },
+  {
+    "name": "Luki's Grand Capitals",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/8Lw09aLb/versions/EtZf2Gve/lukis-grand-capitals-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/8Lw09aLb/3a40a5289738375174b0bab530858dc3f128ab82_96.webp"
+  },
+  {
+    "name": "Trims Expanded",
+    "version": "1.3.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/e05g5n8a/versions/YGXE3CCq/trims-expanded-1.3.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/e05g5n8a/8e020e2488cc2c49af5eb8d856bf2d6e5df45a33.png"
+  },
+  {
+    "name": "Portfolio",
+    "version": "1.4.1-datapack",
+    "download_url": "https://cdn.modrinth.com/data/2k6aLirX/versions/i1rzzyKF/portoflio-1.21.x-1.4.1-datapack.zip",
+    "icon_url": "https://cdn.modrinth.com/data/2k6aLirX/db8657176bf0e0c7b6cba045db4263bdbc9926fb_96.webp"
+  },
+  {
+    "name": "CTOV - BYG Compat",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/d3JOyUGH/versions/CnJchK9Z/ctov-byg-compat-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/d3JOyUGH/4dd62cc9350ce6c5778ab55fec030998e9389b01_96.webp"
+  },
+  {
+    "name": "Guns++",
+    "version": "5.7.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/kdch0Jxf/versions/CzYFPPct/guns%2B%2B-5.7.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/kdch0Jxf/becc52bc2ff73452a61a2d11325f7d5699abda74_96.webp"
+  },
+  {
+    "name": "Trimmable Tools",
+    "version": "2.0.3",
+    "download_url": "https://cdn.modrinth.com/data/MJu3fF3K/versions/vDthaNwd/trimmable_tools-fabric-1.21.2-2.0.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/MJu3fF3K/f1407007aa5480ca451431afd2901e5c8cee740d.png"
+  },
+  {
+    "name": "Lithosphere",
+    "version": "1.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/iv9jp2k9/versions/yrTaxqqx/lithosphere-1.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/iv9jp2k9/cf102db0e089fb2e772093640aa469dc2ad6dc29_96.webp"
+  },
+  {
+    "name": "Nyctophobia Dread",
+    "version": "5+mod",
+    "download_url": "https://cdn.modrinth.com/data/Q2HFmuJV/versions/FI57z8qS/nyctophobia-dread-5.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Q2HFmuJV/7b85700891cefe049105d89da485be6d3c983819_96.webp"
+  },
+  {
+    "name": "Immersive Structures II: Nether edition",
+    "version": "1.1.0",
+    "download_url": "https://cdn.modrinth.com/data/fECIioDQ/versions/DQPdL75T/imst_n-1.1.0.zip",
+    "icon_url": ""
+  },
+  {
+    "name": "Saturated",
+    "version": "0.21.03+mod",
+    "download_url": "https://cdn.modrinth.com/data/eBiNxmRM/versions/uUDncBpM/saturated-0.21.03.jar",
+    "icon_url": "https://cdn.modrinth.com/data/eBiNxmRM/2d561805449bc346909a020fb24c8d973204aa18.png"
+  },
+  {
+    "name": "Dungeons+",
+    "version": "1.9.0b+mod",
+    "download_url": "https://cdn.modrinth.com/data/nHORcEHd/versions/3okGqByp/dungeons%2B-1.9.0b.jar",
+    "icon_url": "https://cdn.modrinth.com/data/nHORcEHd/1b5d79c6ec1b033725352efbb83bac451efaba85.png"
+  },
+  {
+    "name": "Advancement Count",
+    "version": "v1.2.0c+mod",
+    "download_url": "https://cdn.modrinth.com/data/2tEdxXOF/versions/GDhjbLMd/advancement-count-v1.2.0c.jar",
+    "icon_url": "https://cdn.modrinth.com/data/2tEdxXOF/1d55834b52954120dfe7ee161f9633ecbcbd2133.jpeg"
+  },
+  {
+    "name": "More Fossils",
+    "version": "2.0.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/6wSvZKQk/versions/R7X2UrMs/more_fossils-2.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/6wSvZKQk/ba828533e51e79b92a9b53dbd0d234d60f0883db_96.webp"
+  },
+  {
+    "name": "Cherry Grove Villages",
+    "version": "1.0.8",
+    "download_url": "https://cdn.modrinth.com/data/Xtpwas3W/versions/i7pMpBKh/cherry-villages-1.0.8.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Xtpwas3W/0134c5a814b59020a46f0de3b6b19892ff0cefc9_96.webp"
+  },
+  {
+    "name": "Dungeons and Taverns Swamp Hut Overhaul",
+    "version": "v2.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/nWSeFpQt/versions/wa76Xxan/dungeons-and-taverns-swamp-hut-overhaul-v2.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/nWSeFpQt/4f56e8970c81ee55862a81d7b2e35905c9908c46_96.webp"
+  },
+  {
+    "name": "Shingeki no Craft",
+    "version": "2.2.4.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/MLwQGRjp/versions/hoGUfNsq/shingeki-no-craft-2.2.4.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/MLwQGRjp/100175db07544a45f5e792174aaae9d9f1206a4b.png"
+  },
+  {
+    "name": "HiddenMons [Cobblemon]",
+    "version": "v0.5.3",
+    "download_url": "https://cdn.modrinth.com/data/isWGaSnM/versions/DlIaS8UW/HiddenMons%20%5BCobblemon%5D%20v0.5.3.zip",
+    "icon_url": "https://cdn.modrinth.com/data/isWGaSnM/1237037ce37e59e551228d52c022549fdc8b72ea.png"
+  },
+  {
+    "name": "Cobblemon: Legends Untold",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/FuRL3fNw/versions/UuLxPjAq/cobblemon-legendary-structures-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/FuRL3fNw/97c30622696e4e82a2e734bfcf774c1eb5cee205.png"
+  },
+  {
+    "name": "Better End Cities (Vanilla)",
+    "version": "1.21-1.0.0",
+    "download_url": "https://cdn.modrinth.com/data/Keq5OmV7/versions/V5uG06Jh/BetterEndCities-Vanilla-1.21.zip",
+    "icon_url": "https://cdn.modrinth.com/data/Keq5OmV7/d04a18b19da6f85dfb1ab1ad0ca334aee6c0c8f1_96.webp"
+  },
+  {
+    "name": "Shinier Shinies",
+    "version": "1.1",
+    "download_url": "https://cdn.modrinth.com/data/aXZALOTh/versions/n0kCcm16/Shinier%20Shinies%20v1.1%20%5B1.20.1-v1.4%2B%5D.zip",
+    "icon_url": "https://cdn.modrinth.com/data/aXZALOTh/bd5b28cc7d0a6100d02286013935fd14e4ee3e56.png"
+  },
+  {
+    "name": "Chunklock",
+    "version": "1.21",
+    "download_url": "https://cdn.modrinth.com/data/Z5JdfNas/versions/QqQy3mWF/chunklock.zip",
+    "icon_url": "https://cdn.modrinth.com/data/Z5JdfNas/17cae35fbcbb5cfdc23894dd33b9da0bad0f03c2_96.webp"
+  },
+  {
+    "name": "Realistic Item Drops",
+    "version": "3.4M",
+    "download_url": "https://cdn.modrinth.com/data/CZP8YYTl/versions/Rznw1dgG/realistic-item-drops-3.4.jar",
+    "icon_url": "https://cdn.modrinth.com/data/CZP8YYTl/90b901f97a2c217c4f4631230408608888d61ebd_96.webp"
+  },
+  {
+    "name": "MasterCutter",
+    "version": "1.3.1+1.21+mod",
+    "download_url": "https://cdn.modrinth.com/data/DuUMFIfX/versions/wQ63oKLt/mastercutter-1.3.1%2B1.21.jar",
+    "icon_url": "https://cdn.modrinth.com/data/DuUMFIfX/d8a4745d2baf7525dcea2c00dccdd557f3b26e70_96.webp"
+  },
+  {
+    "name": "Better Babies",
+    "version": "0.7.13+mod",
+    "download_url": "https://cdn.modrinth.com/data/W9qgAZfz/versions/A4g4fcwi/better-babies-0.7.13.jar",
+    "icon_url": "https://cdn.modrinth.com/data/W9qgAZfz/4aa720f9eee3bf0a374473a0e907aa5346279666.png"
+  },
+  {
+    "name": "Better Trees",
+    "version": "1.8.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/cfXIpi12/versions/UH2Sx8vE/better-trees-1.8.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/cfXIpi12/3768cb2a67d80b51541b70b224aeb206af0284ec_96.webp"
+  },
+  {
+    "name": "Horde Nights",
+    "version": "1.1.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/jGO2ac1X/versions/zoWLqWQ8/blood-moon-1.1.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/jGO2ac1X/19521f1b875d3c89aa23a1c6b6375dd2da5e4bb1_96.webp"
+  },
+  {
+    "name": "Hostile Mobs Improve Over Time",
+    "version": "1.10.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/ku4JD9TH/versions/tYGp19Fg/hostile-mobs-improve-over-time-1.10.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/ku4JD9TH/127f5701737f3457fe17351ceb694bdb8a394fdc.png"
+  },
+  {
+    "name": "Wabi-Sabi Structures",
+    "version": "3.0.1",
+    "download_url": "https://cdn.modrinth.com/data/Vr3O6THr/versions/NdFZCyPb/Wabi-Sabi%20Structures%203.0.1-1.21.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Vr3O6THr/0a365ec5463de0c4a019f811c88426e940c306a9_96.webp"
+  },
+  {
+    "name": "CTOV - Croptopia compat",
+    "version": "2.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/5cWrW4FI/versions/kHv1AnGt/ctov-croptopia-compat-2.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/5cWrW4FI/5bdff7c28e0c1ba06513d5199bec0a9331afbb52_96.webp"
+  },
+  {
+    "name": "Legendary Encounters (Cobblemon)",
+    "version": "1.2e",
+    "download_url": "https://cdn.modrinth.com/data/pnBtlkdI/versions/9Y01qhFX/Legendary_Encounters%21.zip",
+    "icon_url": "https://cdn.modrinth.com/data/pnBtlkdI/f1e35df41502502e0d7360e395969acb5c57ee57.png"
+  },
+  {
+    "name": "Manic",
+    "version": "1.2.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/n382wpVP/versions/uZG3WB0N/manic-1.2.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/n382wpVP/dbd87e51dacfe40b3d02189d9715d5163ebbc13a.png"
+  },
+  {
+    "name": "Upgraded Mobs",
+    "version": "1.4.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/iaFWBDP2/versions/pIl7Bbfy/upgraded-mobs-1.4.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/iaFWBDP2/93f7090381019e87d20aee342027af07a57fe73b_96.webp"
+  },
+  {
+    "name": "Sanguine",
+    "version": "0.5.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/zliP2NTL/versions/BHY3PBNl/sanguine-0.5.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/zliP2NTL/52dc1e5da808005e928230bdab7c23009e68f565.png"
+  },
+  {
+    "name": "Upgradable Backpack",
+    "version": "v10+mod",
+    "download_url": "https://cdn.modrinth.com/data/PCoGdhe8/versions/G3qqWocu/upgradable-backpack-v10.jar",
+    "icon_url": "https://cdn.modrinth.com/data/PCoGdhe8/afcf8a527efcf7e2d0a365f7bf6fb18920d569f2.png"
+  },
+  {
+    "name": "Infinity Cave",
+    "version": "0.6",
+    "download_url": "https://cdn.modrinth.com/data/DEq97NAA/versions/3zhoAnWN/infinity_cave-0.6.jar",
+    "icon_url": "https://cdn.modrinth.com/data/DEq97NAA/db8e56b5d086ce89b4c9473a3e75fc358b26e6a8_96.webp"
+  },
+  {
+    "name": "Epic Terrain",
+    "version": "0.1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/7qSJGSHp/versions/BbJAk9fR/epicterrain-0.1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/7qSJGSHp/f7f3ed82a5a63865f528866bb4679176d542f850_96.webp"
+  },
+  {
+    "name": "Structory: Towers",
+    "version": "1.0.8",
+    "download_url": "https://cdn.modrinth.com/data/j3FONRYr/versions/VG8EwLZB/Structory_Towers_1.21_v1.0.8.zip",
+    "icon_url": "https://cdn.modrinth.com/data/j3FONRYr/e7d6877a7b7a03680383fd1a1fdd3496604e372a_96.webp"
+  },
+  {
+    "name": "Larger Ore Veins: Deluxe",
+    "version": "1.2.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/1bRLEs28/versions/B9H5LIvU/larger-ore-veins-deluxe-1.2.2.jar",
+    "icon_url": ""
+  },
+  {
+    "name": "Red\u2019s More Structures",
+    "version": "1.0.8R+mod",
+    "download_url": "https://cdn.modrinth.com/data/DKJltXeY/versions/LsFfeVOI/reds-more-structures-1.0.8R.jar",
+    "icon_url": "https://cdn.modrinth.com/data/DKJltXeY/2aa0ca4616e6c59c3042a9b5fcb5b951005a9e72_96.webp"
+  },
+  {
+    "name": "qraftyfied: STRUCTURES",
+    "version": "9.1.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/ibnDR6oc/versions/Jsozd95o/qraftyfied-9.1.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/ibnDR6oc/f21155fcad19205791e2e4ead49f14f389ead921_96.webp"
+  },
+  {
+    "name": "GenoMons [Cobblemon]",
+    "version": "1.5.1",
+    "download_url": "https://cdn.modrinth.com/data/yJZFl0Ux/versions/zOSN7UZ3/Genomons%20%5B1.5.1%5D.zip",
+    "icon_url": "https://cdn.modrinth.com/data/yJZFl0Ux/2a833e97e2c3b8ba36da19811f51df4d6c683a54.png"
+  },
+  {
+    "name": "CTOV - Iron's Spells 'n Spellbooks compat",
+    "version": "1.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/B8XiXauo/versions/o57gj0aQ/ctov-irons-spells-n-spellbooks-compat-1.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/B8XiXauo/220f76a53b37836930c797545541faca81a7a100_96.webp"
+  },
+  {
+    "name": "Origins: Player Scale",
+    "version": "3+mod",
+    "download_url": "https://cdn.modrinth.com/data/9JpuntRB/versions/aIbqjYCP/origins-player-scale-3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/9JpuntRB/13efd2fb04316cd30abe0a489693575aaf797d7b_96.webp"
+  },
+  {
+    "name": "[Let's Do Addon] Structures",
+    "version": "1.7.1",
+    "download_url": "https://cdn.modrinth.com/data/2PaVx3ow/versions/zFeeia2y/letsdo-addon-structures-1.7.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/2PaVx3ow/63cb9cbc61cbab7f112e4f1d7cf5327fa97129ff_96.webp"
+  },
+  {
+    "name": "Rebalanced Loot",
+    "version": "1.1.1",
+    "download_url": "https://cdn.modrinth.com/data/oNCfej6S/versions/t7tRibo1/rebalanced-loot-mc1.20-v1.1.1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/oNCfej6S/31ca096391e753ddebf7ad92585d93d3896f1b37.png"
+  },
+  {
+    "name": "Create: Armor Trims",
+    "version": "2.0.1",
+    "download_url": "https://cdn.modrinth.com/data/Q4F90RHI/versions/C9U99P99/create_armor_trims-1.20.1-2.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Q4F90RHI/a2089caafaf5d3ca67eef60fa9b99c1a3dcc5cba_96.webp"
+  },
+  {
+    "name": "CobbleTowns",
+    "version": "1.0.2",
+    "download_url": "https://cdn.modrinth.com/data/8XDLda7G/versions/SgRkBhgW/CobbleTowns%20v1.0.2.zip",
+    "icon_url": "https://cdn.modrinth.com/data/8XDLda7G/aeffb62cecc37711e5e33f3559ca2e0111550eee.png"
+  },
+  {
+    "name": "Deeper Dark",
+    "version": "3.0.4+mod",
+    "download_url": "https://cdn.modrinth.com/data/nHr26oc2/versions/3O5JKRD2/deeper_dark-3.0.4.jar",
+    "icon_url": "https://cdn.modrinth.com/data/nHr26oc2/b8fec87d309b661141d3ccc1d2222142c7e33be9_96.webp"
+  },
+  {
+    "name": "Cobble-Remodels",
+    "version": "5.1",
+    "download_url": "https://cdn.modrinth.com/data/pKtxQSOp/versions/pK1noB99/Cobble-Remodels_v5.1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/pKtxQSOp/61f49e8c58a9345d4a82e616a455b14c20092ce5.png"
+  },
+  {
+    "name": "Pok\u00e9mon Fishing",
+    "version": "1.1.4",
+    "download_url": "https://cdn.modrinth.com/data/gSo4KNpR/versions/SMOBCv2G/Pok%C3%A9mon%20Fishing%20v1.1.4%20%5B1.20.1-v1.4%2B%5D.zip",
+    "icon_url": "https://cdn.modrinth.com/data/gSo4KNpR/7c04cea98ad06f3491588b96cceac8036eea2201.png"
+  },
+  {
+    "name": "CTOV - Waystone Compat",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/70yluNSI/versions/dhfJy800/ctov-waystone-compat-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/70yluNSI/001e50cead4656390940f4ec789585784d691d8e_96.webp"
+  },
+  {
+    "name": "Buizel and Floatzel in Cobblemon 1.3",
+    "version": "1.1",
+    "download_url": "https://cdn.modrinth.com/data/NRH3wR0T/versions/rLG7wVgU/Buizel_and_Floatzel.zip",
+    "icon_url": "https://cdn.modrinth.com/data/NRH3wR0T/9b706388028f0f1158cae52ae603e277c326e150.png"
+  },
+  {
+    "name": "Better Combat Bewitchment Compatibility (BCBC)",
+    "version": "1",
+    "download_url": "https://cdn.modrinth.com/data/rqv8E8n5/versions/H2Pw4WTr/Better-Combat-Bewitchment-Compat.jar",
+    "icon_url": "https://cdn.modrinth.com/data/rqv8E8n5/1e26b3b91b19d6cd8d8eaf2fb4867641d0885724_96.webp"
+  },
+  {
+    "name": "Larger Ore Veins: Nether",
+    "version": "1.1.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/onvdDvvO/versions/QgNyt4SQ/larger-ore-veins-nether-1.1.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/onvdDvvO/1f26bcbc61d5a9b32cd087070a1a71d993e52480_96.webp"
+  },
+  {
+    "name": "CTOV - More villagers compat",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/fyGliXG0/versions/mfQZezl4/ctov-more-villagers-compat-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/fyGliXG0/d23b2ba7309526fbcaeb5e998b7b737d58727300_96.webp"
+  },
+  {
+    "name": "DracoMon [Cobblemon]",
+    "version": "0.6.10",
+    "download_url": "https://cdn.modrinth.com/data/1uFqOdbr/versions/ETDOwqzN/Dracomon_0.6.10.zip",
+    "icon_url": "https://cdn.modrinth.com/data/1uFqOdbr/ba36f7efa3197a2bffc96b6479a5bc4d8aa615c7.png"
+  },
+  {
+    "name": "Origins Minus",
+    "version": "2.1.1+1.19.3",
+    "download_url": "https://cdn.modrinth.com/data/gbOL9is1/versions/jZREuLeQ/origins-minus-2.1.1%2B1.19.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/gbOL9is1/3a2c005f05273c31405bd2156209681582ccf0c3.png"
+  },
+  {
+    "name": "Refined Advancements",
+    "version": "1.0.4a+mod",
+    "download_url": "https://cdn.modrinth.com/data/60PfR426/versions/lvoz36w2/refined-advancements-1.0.4a.jar",
+    "icon_url": "https://cdn.modrinth.com/data/60PfR426/9708bc63deb78a640a85013b2c24e576ef630bba_96.webp"
+  },
+  {
+    "name": "SkyBlock - Standard",
+    "version": "2.0.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/bbtyQ1Po/versions/WHElTkyl/standard-skyblock-2.0.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/bbtyQ1Po/cc76b55c303e7b8f268fdf80c8ab93c05a8a5e91_96.webp"
+  },
+  {
+    "name": "Epic Dungeons: A Roguelike Minecraft",
+    "version": "0.1.04",
+    "download_url": "https://cdn.modrinth.com/data/iAwGa4r9/versions/iXmuEq0a/Epic%20Dungeons-0.1.04-Forge-1.21.jar",
+    "icon_url": "https://cdn.modrinth.com/data/iAwGa4r9/1a09675fd8d51a8a26a002a781b359ad34b9fb1b_96.webp"
+  },
+  {
+    "name": "Josh's More Foods",
+    "version": "5.2.0",
+    "download_url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/JgPRYl1G/joshs-more-foods_5.2.0_data_pack.zip",
+    "icon_url": "https://cdn.modrinth.com/data/3BlwZj8w/f3fcfbb8463e37267d89d16d4838996a2bbf3423.png"
+  },
+  {
+    "name": "TNT Equivalent",
+    "version": "1.0",
+    "download_url": "https://cdn.modrinth.com/data/UVL66cFT/versions/DpgJcyiv/tnt-equivalent.zip",
+    "icon_url": "https://cdn.modrinth.com/data/UVL66cFT/dd6f330866773275d1d6a5bdd641c799ebd7ca64_96.webp"
+  },
+  {
+    "name": "Create Renewable Ores",
+    "version": "1+mod",
+    "download_url": "https://cdn.modrinth.com/data/dYMXOl0s/versions/yyGfx9wl/create-renewable-ores-1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/dYMXOl0s/9cdc9d54dce19f34ef60a11ed1d554f84cc0eab3_96.webp"
+  },
+  {
+    "name": "Nice Mobs Remastered: Friends & Foes",
+    "version": "2.5b+mod",
+    "download_url": "https://cdn.modrinth.com/data/hxerjRLt/versions/rPdXAqIj/nice-mobs-remastered-2.5b.jar",
+    "icon_url": "https://cdn.modrinth.com/data/hxerjRLt/0c252423c0c5bba9f88c4b7c5f9d4e7b303954dd_96.webp"
+  },
+  {
+    "name": "Structory",
+    "version": "1.3.6",
+    "download_url": "https://cdn.modrinth.com/data/aKCwCJlY/versions/EzkGaiP0/Structory_1.21_v1.3.6.zip",
+    "icon_url": "https://cdn.modrinth.com/data/aKCwCJlY/81c79a9d58c605ad79c4a8da15c865902bec8d42_96.webp"
+  },
+  {
+    "name": "CobblemonLoot",
+    "version": "1.1.1",
+    "download_url": "https://cdn.modrinth.com/data/q4kL243P/versions/eJqaB3V6/CobblemonLoot-v1.1.1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/q4kL243P/adc00066b8b0399c044f0a8e54d09be74dc80895.png"
+  },
+  {
+    "name": "Battle-Bond [Cobblemon]",
+    "version": "1.4",
+    "download_url": "https://cdn.modrinth.com/data/cP29KIP9/versions/63pyFAOy/BattleBond%20%5BV1.4%5D.zip",
+    "icon_url": "https://cdn.modrinth.com/data/cP29KIP9/b88453f384eb84040b07a990aef2071359d41307.png"
+  },
+  {
+    "name": "Keep Head Names",
+    "version": "1.0.0",
+    "download_url": "https://cdn.modrinth.com/data/2VmW47Rp/versions/QQ8Wng3R/KeepHeadData.zip",
+    "icon_url": "https://cdn.modrinth.com/data/2VmW47Rp/27bd722d9ad15ac6631d9b882383be839dd6cae3_96.webp"
+  },
+  {
+    "name": "Katters Structures",
+    "version": "2.0.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/V6LLU8Gf/versions/jJjIDM7J/katters-structures-2.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/V6LLU8Gf/341f4e18ce1ac1943bbdcd2cd79fad77816066e1_96.webp"
+  },
+  {
+    "name": "qrafty's Japanese Villages",
+    "version": "2.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/6vWz8dzn/d011faf849be7df68ea88b3a01dad7542323e281_96.webp"
+  },
+  {
+    "name": "qrafty's End Villages",
+    "version": "2.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/NFlNaUBA/versions/1SsJYuhT/qraftys-end-villages-2.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/NFlNaUBA/edf054c7cabf1240a45b244168f449b8901b1b24_96.webp"
+  },
+  {
+    "name": "WizardZ",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/sstDyAxN/versions/5hwBnr2J/wizardz-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/sstDyAxN/dca139c2d3f75cd997cd96c8c1241437db4a5cd2.png"
+  },
+  {
+    "name": "Lucario Overhaul [Cobblemon 1.4]",
+    "version": "1.2.1",
+    "download_url": "https://cdn.modrinth.com/data/uWyj4p7w/versions/Z5kg5rrJ/Lucario_Overhaul_v1.2.1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/uWyj4p7w/179b0184a50b8c2d7289cf8d532cbc640b29c13a_96.webp"
+  },
+  {
+    "name": "Origins: Improved Inchling",
+    "version": "2.4.1",
+    "download_url": "https://cdn.modrinth.com/data/TxQFiZmr/versions/9DP1haXz/improved-inchling-origin-2.4.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/TxQFiZmr/cdba99243e5a6182e4438a5aa3c06c8f8ddac3f4_96.webp"
+  },
+  {
+    "name": "Players Drop Heads",
+    "version": "57.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/NU7qMnLN/versions/ykgNQXrN/players-drop-heads-57.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/NU7qMnLN/277a635c0efbd77c1cb9e9048322d87aec3a5776_96.webp"
+  },
+  {
+    "name": "Wimpower",
+    "version": "1.1.0",
+    "download_url": "https://cdn.modrinth.com/data/bjd8IEuT/versions/G2roDGf0/Wimpower%20v1.1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/bjd8IEuT/5a15db20c8cae20f80dc2396cdc64129e1df7803_96.webp"
+  },
+  {
+    "name": "Footprint Particles",
+    "version": "6+mod",
+    "download_url": "https://cdn.modrinth.com/data/iXruOT6m/versions/EEzp6N5o/footprint-particles-6.jar",
+    "icon_url": "https://cdn.modrinth.com/data/iXruOT6m/855d88043f1b09dff79f5d4f3fb3c5fe9c6d6e7c_96.webp"
+  },
+  {
+    "name": "qrafty's Jungle Villages",
+    "version": "2.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/qSvzu3X3/versions/BfBjlAYN/qraftys-jungle-villages-2.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/qSvzu3X3/d9eff418981f92e3e7ad622a2b37630f70ffa15b_96.webp"
+  },
+  {
+    "name": "Craftable Notch Apple",
+    "version": "1.21.1-0.1",
+    "download_url": "https://cdn.modrinth.com/data/Sq7h2Ndg/versions/XSjySg8c/craftableenchantedgoldenapple-1.21.1-0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Sq7h2Ndg/a8c596f633d93269d0dbd502b05063d5c67b4d0c_96.webp"
+  },
+  {
+    "name": "Dungeons and Taverns Nether Fortress Overhaul",
+    "version": "v2.5+mod",
+    "download_url": "https://cdn.modrinth.com/data/8Dbnvm77/versions/CE9OLHLy/dungeons-and-taverns-nether-fortress-overhaul-v2.5.jar",
+    "icon_url": "https://cdn.modrinth.com/data/8Dbnvm77/d0a6d9acd706331855021c5bbc233dd171f8e0b4_96.webp"
+  },
+  {
+    "name": "Towers of the Wild: Reworked",
+    "version": "v4.3.0-fabric-waystones",
+    "download_url": "https://cdn.modrinth.com/data/iqOgCgNa/versions/dfKxgIOb/Towers_Of_The_Wild_Reworked_v4.3.0_Fabric_Waystones.zip",
+    "icon_url": "https://cdn.modrinth.com/data/iqOgCgNa/166ca9df09cfda4569362c7ae498c6457df00514_96.webp"
+  },
+  {
+    "name": "Gen's Villager Hats",
+    "version": "0.1.16+mod",
+    "download_url": "https://cdn.modrinth.com/data/L45eoNGD/versions/RVGTgaio/trade-villager-hats-0.1.16.jar",
+    "icon_url": "https://cdn.modrinth.com/data/L45eoNGD/0be6af53daceb192709c74eddac9ebfdb4389255.png"
+  },
+  {
+    "name": "ATi Structures Mod",
+    "version": "1.1.0",
+    "download_url": "https://cdn.modrinth.com/data/bii8qPSt/versions/8OC8faML/ATi%20StructuresV1.1.0%20%281.20%29%20-%20DATAPACK.zip",
+    "icon_url": "https://cdn.modrinth.com/data/bii8qPSt/98fbec7369fc11e1d2d4ec5355222893c8c20b3c_96.webp"
+  },
+  {
+    "name": "Missing Legends [Cobblemon]",
+    "version": "1.2",
+    "download_url": "https://cdn.modrinth.com/data/Aji28WRU/versions/pOmLxnI2/Missing%20Legends%20V1.2%5BNo%20Genesect%20or%20Regi%20Resize%5D.zip",
+    "icon_url": "https://cdn.modrinth.com/data/Aji28WRU/6f679df4283881f3bbf024386add6fe4928da53d.png"
+  },
+  {
+    "name": "Just Another Structure Pack",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/A9XFwNaH/versions/v0tEzvPl/just-another-structure-pack-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/A9XFwNaH/97215186a5fd08f73204be53caa2896682ab71fe.png"
+  },
+  {
+    "name": "Dungeons and Taverns Woodland Mansion Replacement",
+    "version": "v1.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/3GfxWFCy/versions/oytWDSby/dungeons-and-taverns-woodland-mansion-replacement-v1.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/3GfxWFCy/b9cddd3662a73daaf1ff7030dd32933b7b2924ad_96.webp"
+  },
+  {
+    "name": "Skyblock Infinite",
+    "version": "1.1.2",
+    "download_url": "https://cdn.modrinth.com/data/YVMr2l79/versions/iJEl2tGU/Skyblock_Infinite_1.1.2.zip",
+    "icon_url": "https://cdn.modrinth.com/data/YVMr2l79/125e2bbbeb8d763ff5872da6c579b74edb8561fd_96.webp"
+  },
+  {
+    "name": "Cascades (Hybrid Beta)",
+    "version": "1.0.4+mod",
+    "download_url": "https://cdn.modrinth.com/data/Jmx5kJiS/versions/ojDEOIgT/hybrid-beta-1.0.4.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Jmx5kJiS/68ebfb4b23544912f32dc545722faf9f5957ef09_96.webp"
+  },
+  {
+    "name": "STRAYED FATES: Forsaken",
+    "version": "2.0.0.2",
+    "download_url": "https://cdn.modrinth.com/data/3GGOgUqD/versions/erKzTQWC/STRAYED%20FATES%20Forsaken%201.21%2B%20v2.0.0.2.zip",
+    "icon_url": "https://cdn.modrinth.com/data/3GGOgUqD/6e33f1c0b740c71282abf50790060d78d0e23f18.png"
+  },
+  {
+    "name": "PaladinZ",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/wzV50iIw/versions/oZJ4HH5O/paladinz-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/wzV50iIw/c12625cb77c839dd07ff39395ea7d9c1220b5d67_96.webp"
+  },
+  {
+    "name": "CobbleCats [cobblemon]",
+    "version": "1.5",
+    "download_url": "https://cdn.modrinth.com/data/K2Q9LnPH/versions/BgWQiiU2/cobble_cats.zip",
+    "icon_url": "https://cdn.modrinth.com/data/K2Q9LnPH/b7bb21c16247be8814d70072b484b24fc75290f1_96.webp"
+  },
+  {
+    "name": "Alphabet Soup [Cobblemon]",
+    "version": "2.1",
+    "download_url": "https://cdn.modrinth.com/data/IJRcfnAh/versions/kdahTGdp/AlphabetSoup-v2.1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/IJRcfnAh/db2a64911c1160a2904914dcf450c6c5e1338b34_96.webp"
+  },
+  {
+    "name": "MC Paint",
+    "version": "1.4.0",
+    "download_url": "https://cdn.modrinth.com/data/5kEBpFCd/versions/5JKPhbgt/mcpaint-v1.4.0-datapack.zip",
+    "icon_url": "https://cdn.modrinth.com/data/5kEBpFCd/cdd28855e2d83869beb8e32ff45e8ac2e719ed02.png"
+  },
+  {
+    "name": "Gravelmon",
+    "version": "2.2.1",
+    "download_url": "https://cdn.modrinth.com/data/oxcT9Jpo/versions/Al8GmaIg/gravelmon-2.2.1%20-%20forge.jar",
+    "icon_url": "https://cdn.modrinth.com/data/oxcT9Jpo/08760d9139ba3b32417c44b8f5dbc41df617cf46_96.webp"
+  },
+  {
+    "name": "Cliff under a Tree (CliffTree)",
+    "version": "1.7.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/59ypHk8x/versions/G0nfW069/clifftree-1.7.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/59ypHk8x/e88ad09f1e5edc1cae8e3308e0161cccf2b6abd5_96.webp"
+  },
+  {
+    "name": "Tetra's Delight",
+    "version": "1.20.1-1",
+    "download_url": "https://cdn.modrinth.com/data/TVhC6ZPD/versions/RMrGkuN3/tetrasdelight-1.20.1-1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/TVhC6ZPD/385f43298c2e8c4ceb1e2ccd172f40dd463a120e.png"
+  },
+  {
+    "name": "Dungeons and Taverns Jungle Temple Replacement",
+    "version": "v1.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/oHjYCS0f/versions/yPVXp19a/dungeons-and-taverns-jungle-temple-replacement-v1.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/oHjYCS0f/aa9ba9f1d6e5e87edb05ca18acc2737b2de6fcb3_96.webp"
+  },
+  {
+    "name": "JJThunder To The Max",
+    "version": "0.3.0",
+    "download_url": "https://cdn.modrinth.com/data/1NnAVIR5/versions/2jgA0Tnz/JJThunder_To_The_Max_1.21.0_v0.3.0.zip",
+    "icon_url": "https://cdn.modrinth.com/data/1NnAVIR5/7429537b996fe6410f6466e1f131ab877ee987b9_96.webp"
+  },
+  {
+    "name": "Origins: Fairy",
+    "version": "2.0.1",
+    "download_url": "https://cdn.modrinth.com/data/itPC3Rsw/versions/tsVk5HaK/fairy-origin-2.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/itPC3Rsw/3cbe6e8773c3cd6fd972defc1bb61fc8c160f854_96.webp"
+  },
+  {
+    "name": "Origins: Vampire",
+    "version": "v2.2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/wXwvlA97/versions/9MQUKSrq/origins-vampire-v2.2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/wXwvlA97/2fd50310ad5fd08fdd8f19f5cec0ea0b1307de78_96.webp"
+  },
+  {
+    "name": "Extra Eeveelutions [Cobblemon]",
+    "version": "1.0.6.1",
+    "download_url": "https://cdn.modrinth.com/data/vZ8CfI8h/versions/VSP0ltLr/1.0.6.1%20Extra%20Eeveelutions%20%5BDP%5D.zip",
+    "icon_url": "https://cdn.modrinth.com/data/vZ8CfI8h/96dfa3dc9f7a906854b3977fb686a6df93f5da2c_96.webp"
+  },
+  {
+    "name": "Kale's Collection [Cobblemon]",
+    "version": "1.7",
+    "download_url": "https://cdn.modrinth.com/data/UOd0UVtj/versions/c1X3jQuz/Kale%27s%20Collection%20%5Bv1.7%5D.zip",
+    "icon_url": "https://cdn.modrinth.com/data/UOd0UVtj/3d89ff5128cec36caf6c6efbbcefe099266cace7_96.webp"
+  },
+  {
+    "name": "Cavernous",
+    "version": "2.2.1",
+    "download_url": "https://cdn.modrinth.com/data/Q14nLn1y/versions/ZmHANqxl/Cavernous-r-v2-2-1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/Q14nLn1y/ce4c607f3cfa7576908abda8f40920f47ba92fbc_96.webp"
+  },
+  {
+    "name": "Technical Enchant+ Renewed",
+    "version": "7.4.2",
+    "download_url": "https://cdn.modrinth.com/data/Wtv4kWE9/versions/VAypjbYI/technical-enchant-v7-4-2_1.20.4.zip",
+    "icon_url": "https://cdn.modrinth.com/data/Wtv4kWE9/472b77e66438f10e33ed4c62999ed91c9c376009_96.webp"
+  },
+  {
+    "name": "Dungeons and Taverns Desert Temple Replacement",
+    "version": "v1.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/7JTDDmRT/versions/wzRlJIWi/dungeons-and-taverns-desert-temple-replacement-v1.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/7JTDDmRT/6112e32e736d4d07ad5c90adc95459db16675b7d_96.webp"
+  },
+  {
+    "name": "Origins: Stargazer",
+    "version": "2.4.0",
+    "download_url": "https://cdn.modrinth.com/data/1gmmcEWS/versions/xASBQQxp/stargazer-origin-2.4.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/1gmmcEWS/fc1b09034019a0f4d3fe0e1a4bd1a84a137301d1_96.webp"
+  },
+  {
+    "name": "Arboria: Biome Enhancement",
+    "version": "1.1.6",
+    "download_url": "https://cdn.modrinth.com/data/IuVnevHX/versions/Tjqb34o7/arboria_v1.1.6.zip",
+    "icon_url": "https://cdn.modrinth.com/data/IuVnevHX/4070a0059fa61d0b5ad5524cfe6d819e2ae5fb40_96.webp"
+  },
+  {
+    "name": "Create Man of Many Planes",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/F4Rdk2PX/versions/XUkRA6F4/create-man-of-many-planes-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/F4Rdk2PX/748866cf33abdf2103f757bbb3260dd86559c4f0_96.webp"
+  },
+  {
+    "name": "CTOV - Bountiful compat",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/890hHez9/versions/axISrKTr/ctov-bountiful-compat-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/890hHez9/c7de39c64215754b6b5ca7dfc146a1363d4b6b95_96.webp"
+  },
+  {
+    "name": "The Jewel Pok\u00e9mon [Cobblemon]",
+    "version": "2.1.1",
+    "download_url": "https://cdn.modrinth.com/data/oZ3g4UdZ/versions/8CguuMtc/diance.zip",
+    "icon_url": "https://cdn.modrinth.com/data/oZ3g4UdZ/538151a18f25fe0de1842b7fe9e42d16374a1f3c.png"
+  },
+  {
+    "name": "Pokemon Towns [Cobblemon]",
+    "version": "0.9",
+    "download_url": "https://cdn.modrinth.com/data/qobJorV1/versions/a9SAIGEq/SpacedPlumsCobblemonVillage.zip",
+    "icon_url": "https://cdn.modrinth.com/data/qobJorV1/761f09daeb74e2a5cc1910ba43bd8488227c02fa_96.webp"
+  },
+  {
+    "name": "Dungeons and Taverns Ocean Monument Replacement",
+    "version": "v1.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/z6GJ3ycD/versions/D244GzT2/dungeons-and-taverns-ocean-monument-replacement-v1.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/z6GJ3ycD/e2451759c418f5d2eb8f5dacf1be2c9b1c67bfc0_96.webp"
+  },
+  {
+    "name": "qrafty's Bamboo Villages",
+    "version": "2.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/KSQGzV5B/versions/x4LQB54H/qraftys-bamboo-villages-2.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/KSQGzV5B/66a78ad76d0960c17500a0668d2f5f949c59415b_96.webp"
+  },
+  {
+    "name": "William Wythers' Overhauled Overworld (Datapack)",
+    "version": "2.3.5",
+    "download_url": "https://cdn.modrinth.com/data/4pbhwMQz/versions/YyS7nEQZ/William%20Wythers%27%20Overhauled%20Overworld%20v2.3.5.zip",
+    "icon_url": "https://cdn.modrinth.com/data/4pbhwMQz/14f50fa0d5165cd9b05f0bfe57a32482815257fe_96.webp"
+  },
+  {
+    "name": "Pigeon's Poke Pack [1.6.0] - Steam and Omens",
+    "version": "1.6.0",
+    "download_url": "https://cdn.modrinth.com/data/EhFoAML2/versions/1d2bFIoV/PigeonPack.zip",
+    "icon_url": "https://cdn.modrinth.com/data/EhFoAML2/483a541052b366461279c6902825fd50c057f5e6.png"
+  },
+  {
+    "name": "PokeSizes Cobblemon",
+    "version": "1.1.1",
+    "download_url": "https://cdn.modrinth.com/data/9nStzADg/versions/NfEOcmnI/PokeSizes-1.1.1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/9nStzADg/3d4a29e1df35a1cc41e0407237e4151999b98ff1_96.webp"
+  },
+  {
+    "name": "Better Lush Caves",
+    "version": "1.3.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/sLN1LU6K/versions/vLzYVz0g/better-lush-caves-1.3.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/sLN1LU6K/8076af71b6ab7e5fab9188d605db38954d3a3acf.png"
+  },
+  {
+    "name": "NotSoCobblemon Allone's Additions",
+    "version": "1.3",
+    "download_url": "https://cdn.modrinth.com/data/M6MEys1f/versions/M3717zMb/NotSoCobblemon.zip",
+    "icon_url": "https://cdn.modrinth.com/data/M6MEys1f/584092e344909ad650b7898b84c24cc3409d0f94_96.webp"
+  },
+  {
+    "name": "Dungeons and Taverns End Castle Standalone",
+    "version": "v1.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/WIs8E6hv/versions/KjM6YZKB/dungeons-and-taverns-end-castle-standalone-v1.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/WIs8E6hv/6b9c121565fad0066cc5aaa36e0b1e0d55b3358d_96.webp"
+  },
+  {
+    "name": "Oceanic",
+    "version": "2+mod",
+    "download_url": "https://cdn.modrinth.com/data/wL0X4qCW/versions/HEIHQiP3/oceanic-2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/wL0X4qCW/e84d1e9d4599992742f8c2b159a56aa7a80c71fb_96.webp"
+  },
+  {
+    "name": "The Expansion",
+    "version": "v1.8_REQUIRED_RESOURCEPACK",
+    "download_url": "https://cdn.modrinth.com/data/t3qZik6A/versions/Ffst6i8k/the-expansion-v1.8-RESOURCES.zip",
+    "icon_url": "https://cdn.modrinth.com/data/t3qZik6A/e724249203b9ef4e89c704e1fcd80fa2988f10ff.png"
+  },
+  {
+    "name": "Item Balls",
+    "version": "1.1",
+    "download_url": "https://cdn.modrinth.com/data/JRkIK5qA/versions/K4kdWufu/Item%20Balls%20v1.1%20%5B1.20.1-v1.4%2B%5D.zip",
+    "icon_url": "https://cdn.modrinth.com/data/JRkIK5qA/e45759dca093a95bbbbfdb9234e7ad515a96405f.png"
+  },
+  {
+    "name": "The Bracken Pack",
+    "version": "113",
+    "download_url": "https://cdn.modrinth.com/data/o94eSDf0/versions/UQTZvdWR/thebrackenpackV11324w40a.zip",
+    "icon_url": "https://cdn.modrinth.com/data/o94eSDf0/88a83a0526f5e94e057a54b9c410d642ec893715_96.webp"
+  },
+  {
+    "name": "Lost Libraries",
+    "version": "1.1.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/o4gsLB4v/versions/pMxxIuCR/lost-libraries-1.1.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/o4gsLB4v/1bd037ab041e272827a680f300a9e3e8d26221ce_96.webp"
+  },
+  {
+    "name": "Origins: Enigma",
+    "version": "2.5.1",
+    "download_url": "https://cdn.modrinth.com/data/DFEE3a5p/versions/ZX27G7UM/enigma-origin-2.5.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/DFEE3a5p/88123444fa7837cd798545891648c377cbea3689_96.webp"
+  },
+  {
+    "name": "Battle Towers",
+    "version": "1.2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/LSxfjfLO/versions/CZofTz4j/battle-towers-1.2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/LSxfjfLO/5cd753da717f560e22675a64da99b1ec0e1b4d2b_96.webp"
+  },
+  {
+    "name": "Nether 3.0",
+    "version": "3.51+mod",
+    "download_url": "https://cdn.modrinth.com/data/NN2zkde6/versions/UH6Y80SO/nether-3.0-3.51.jar",
+    "icon_url": "https://cdn.modrinth.com/data/NN2zkde6/1009bb1f1a5318df560b4bf89b5c90afe3d75dfe.png"
+  },
+  {
+    "name": "Stonecutter Damage",
+    "version": "mcmeta-45-48_1.21+mod",
+    "download_url": "https://cdn.modrinth.com/data/jzn0KNd6/versions/TfbNofPg/stonecutter-damage-mcmeta-45-48_1.21.jar",
+    "icon_url": "https://cdn.modrinth.com/data/jzn0KNd6/0ba2ebdae6aee39aa6e4e352db0bd19919e82407_96.webp"
+  },
+  {
+    "name": "Special Mobs",
+    "version": "v9+mod",
+    "download_url": "https://cdn.modrinth.com/data/TWv3uKXX/versions/lA0BYUnV/special-mobs-v9.jar",
+    "icon_url": "https://cdn.modrinth.com/data/TWv3uKXX/c6d1e22a43f5b99b141e11f3e44dddef31f1e9a4_96.webp"
+  },
+  {
+    "name": "Super Powers",
+    "version": "1.4",
+    "download_url": "https://cdn.modrinth.com/data/34GeP0Mj/versions/TFlf9y0f/svm_powers_data-resourcepack_1.4_1.20.2.zip",
+    "icon_url": "https://cdn.modrinth.com/data/34GeP0Mj/2685318414eeaa1ff6d65b709e6a5909d3a69924.png"
+  },
+  {
+    "name": "Boss Music Mod/Datapack",
+    "version": "1.2.0",
+    "download_url": "https://cdn.modrinth.com/data/AE4o3Hmb/versions/clJSKOJz/Boss%20Music%20Datapack%201.20.x%20-%201.21.x%20v1.2.0.zip",
+    "icon_url": "https://cdn.modrinth.com/data/AE4o3Hmb/51c6afd8516ada56b7fa9d8ac27a6d1e6d2c2cb1.png"
+  },
+  {
+    "name": "oSzoukaua's: Lucky Blocks",
+    "version": "1",
+    "download_url": "https://cdn.modrinth.com/data/WARrSvE8/versions/YGvQ7DOr/oszoukauas-lb-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/WARrSvE8/fadb65b809290ab4a42a9207ef6723d947d203f5_96.webp"
+  },
+  {
+    "name": "SkyBlock Advancements",
+    "version": "1.0.5+mod",
+    "download_url": "https://cdn.modrinth.com/data/xuhPkHjq/versions/iLDA6rJZ/skyblock-advancements-1.0.5.jar",
+    "icon_url": "https://cdn.modrinth.com/data/xuhPkHjq/675f7e4ff2b1115a8141686f194a039e3109809e_96.webp"
+  },
+  {
+    "name": "Update 1.21 without trial chambers",
+    "version": "1.3.1",
+    "download_url": "https://cdn.modrinth.com/data/qmeKRMsC/versions/dLKEmDrz/update_1_21_no_trial_chambers_1.20.6.zip",
+    "icon_url": "https://cdn.modrinth.com/data/qmeKRMsC/6070ab423e5c49d3bf20fa337e00d65679e66328.png"
+  },
+  {
+    "name": "Sky Void Additions",
+    "version": "1.2.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/HlddKKKU/versions/yKSWnwyo/sky-void-additions-1.2.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/HlddKKKU/3d09de64a668af6a86fd46a292264a6d955b2221_96.webp"
+  },
+  {
+    "name": "Better Deepslate Ore Drops",
+    "version": "Mod",
+    "download_url": "https://cdn.modrinth.com/data/gmNwzHiE/versions/Sw6LUjMB/better-deepslate-ore-drops-2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/gmNwzHiE/061887ac02da9acd91938569da249a44799eda86.png"
+  },
+  {
+    "name": "Cobblemon Missing Recipes",
+    "version": "1.0",
+    "download_url": "https://cdn.modrinth.com/data/RrN4ZW3v/versions/JpBk40au/CobblemonMissingRecipes-1.0.zip",
+    "icon_url": ""
+  },
+  {
+    "name": "SaltMons",
+    "version": "2.0",
+    "download_url": "https://cdn.modrinth.com/data/QWq3sAFk/versions/cCszkoVE/SaltMons%20v2.0.zip",
+    "icon_url": "https://cdn.modrinth.com/data/QWq3sAFk/c68c16dc77ce5c1a910d2d444ff2236bd0281dd3_96.webp"
+  },
+  {
+    "name": "Fsang18's Heropack",
+    "version": "9.3.0",
+    "download_url": "https://cdn.modrinth.com/data/nwqZcj5e/versions/ZFt7g1FK/FSang18%27s%20Heropack%20v9.3.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/nwqZcj5e/24e07eeeed658d68d48abd023465f069e1495ce8.png"
+  },
+  {
+    "name": "Vanilla Fireflies",
+    "version": "3.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/dxiyDLYV/versions/eaF4Qtds/vanilla-fireflies-3.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/dxiyDLYV/ca4965f61fb7e4ae196c3c6229e36869a9399fa7_96.webp"
+  },
+  {
+    "name": "Panda Temple",
+    "version": "V1+mod",
+    "download_url": "https://cdn.modrinth.com/data/z0qJSbtP/versions/gWekfLjC/panda-temple-V1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/z0qJSbtP/6ac0b087ea112e2ab67f4069d944efe47f155c79_96.webp"
+  },
+  {
+    "name": "Withering Heights: Revamped Wither",
+    "version": "v1.1b+mod",
+    "download_url": "https://cdn.modrinth.com/data/NCPLOWlF/versions/oUMl3Kzr/withering-heights-v1.1b.jar",
+    "icon_url": "https://cdn.modrinth.com/data/NCPLOWlF/6d7c1043931c07b44585999cb9a1243168cbfee1.png"
+  },
+  {
+    "name": "Gamingbarn's Morphs",
+    "version": "v1.12-mod",
+    "download_url": "https://cdn.modrinth.com/data/QpeB9IbW/versions/WoP0DzoW/gamingbarns-morphs-v1.12-data.jar",
+    "icon_url": "https://cdn.modrinth.com/data/QpeB9IbW/e247abbfcc715232f1f7e1891e3cc3f2255a3101.jpeg"
+  },
+  {
+    "name": "Origins: Moth",
+    "version": "2.0.0",
+    "download_url": "https://cdn.modrinth.com/data/dyda2uVd/versions/VBAHIxmD/moth-origin-2.0.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/dyda2uVd/c85d7d0a4de9a4f526d408b78fe91c3cc31d9740_96.webp"
+  },
+  {
+    "name": "LackingMons (Discountiniued)",
+    "version": "0.0.2",
+    "download_url": "https://cdn.modrinth.com/data/ouf6KDf2/versions/pLXYHK8J/LackingMons-ReleaseCanditate-1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/ouf6KDf2/597b3ecab2e00f2bfcde9a8ede32988ea03e34c5_96.webp"
+  },
+  {
+    "name": "Brutes Drop Scraps",
+    "version": "1.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/8ZllcDMw/versions/tuoSx2tO/brutes-drop-scraps-1.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/8ZllcDMw/5779a0dd369d68e04545e549648966073a4dfc55_96.webp"
+  },
+  {
+    "name": "Better End Cities (BetterEnd)",
+    "version": "1.21-1.0.0",
+    "download_url": "https://cdn.modrinth.com/data/itBxlKsu/versions/lUi0AE8l/Ichphilipps-Endcity-Better-End-1.21-FORGE.zip",
+    "icon_url": "https://cdn.modrinth.com/data/itBxlKsu/c19d43cfc2645cc93b4bf4569542ab711fa1f9dc_96.webp"
+  },
+  {
+    "name": "Subsurface",
+    "version": "1.0.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/mGEL09gE/versions/7tLydftW/subsurface-1.0.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/mGEL09gE/8c08c14c7c52ff9613cf22ddad3f4cbbc2793341_96.webp"
+  },
+  {
+    "name": "VillEdit",
+    "version": "2.7bM",
+    "download_url": "https://cdn.modrinth.com/data/g2D95XS4/versions/cTw9SYs2/villedit-2.7b.jar",
+    "icon_url": "https://cdn.modrinth.com/data/g2D95XS4/b72ff10f60429ba7b65a0d4e004fec7e509aec4d_96.webp"
+  },
+  {
+    "name": "Vanilla One Block",
+    "version": "2.0.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/xb16810H/versions/XzPdMoFk/vanilla-one-block-2.0.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/xb16810H/c1309b4a6bfa4a93d72593dfeaf4999bb3c8b5bb_96.webp"
+  },
+  {
+    "name": "Pok\u00e9 Costume [cobblemon]",
+    "version": "2.0",
+    "download_url": "https://cdn.modrinth.com/data/k1X1bPvt/versions/BGOgbXG2/Pok%C3%A9%20Costume%20%5B2.0%5D.zip",
+    "icon_url": "https://cdn.modrinth.com/data/k1X1bPvt/e0acfb7c4020d20947bf3dd2a5a15a4938992ac4_96.webp"
+  },
+  {
+    "name": "Aetherial Islands",
+    "version": "v1.0.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/CHh9WEKT/versions/DGtxj6fP/aetherial-islands-v1.0.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/CHh9WEKT/d20fdc01de41d7d3166905f0b062c4138bcd3ecd_96.webp"
+  },
+  {
+    "name": "Flattened Dimensions",
+    "version": "1.2.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/M2accnCw/versions/ItWIzzON/flattened-dimensions-1.2.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/M2accnCw/6924027953f76b1dd4a0407cecc70a0f8f41ad88_96.webp"
+  },
+  {
+    "name": "Vivillon Pride Patterns [Cobblemon]",
+    "version": "v1.0",
+    "download_url": "https://cdn.modrinth.com/data/2PwY98im/versions/bqpDxE3E/Vivillon%20Pride%20Patterns%20v1.0.zip",
+    "icon_url": "https://cdn.modrinth.com/data/2PwY98im/3c299af3860f3353e1f0d41498272650b375db24_96.webp"
+  },
+  {
+    "name": "Murder Drones Origins",
+    "version": "2.2.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/SFxskKtd/versions/5m9jn1AA/murder-drones-origins-2.2.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/SFxskKtd/d91684b0ea70dca86897f7f4496b4b140ab79058_96.webp"
+  },
+  {
+    "name": "Climbable chains",
+    "version": "1.3",
+    "download_url": "https://cdn.modrinth.com/data/DrFNJLnW/versions/AF8k72Fz/ClimbableChain.zip",
+    "icon_url": "https://cdn.modrinth.com/data/DrFNJLnW/18798c11a857f68d0a567bbd6e9442def0ef2f81.png"
+  },
+  {
+    "name": "Revamped Floating Islands",
+    "version": "v1.1.2",
+    "download_url": "https://cdn.modrinth.com/data/Cui7stHA/versions/D5zTi0KR/revamped-floating-nether-v1.1.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Cui7stHA/d5a0e6fa57a325896028331c69bc22e8ca1963be_96.webp"
+  },
+  {
+    "name": "Cobblemon Alatia's Fakemon Pack",
+    "version": "1.6.6",
+    "download_url": "https://cdn.modrinth.com/data/nHMcH3tj/versions/qE3ZkYNE/Cobblemon%20Alatia%27s%20Fakemon%20Pack%201.6.6.zip",
+    "icon_url": "https://cdn.modrinth.com/data/nHMcH3tj/57545eadd8f068a550b58d11da1e44f0517ed683_96.webp"
+  },
+  {
+    "name": "Mob Variants",
+    "version": "1.0.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/a7rM4clH/versions/udgaLSp8/mob-variants-1.0.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/a7rM4clH/ec3b18ce9008e1b7f2a172edf445189bda72a0e4_96.webp"
+  },
+  {
+    "name": "Level Up",
+    "version": "1.5.4.1",
+    "download_url": "https://cdn.modrinth.com/data/eL35qVRr/versions/5teVPeQz/level-up-1.5.4.jar",
+    "icon_url": "https://cdn.modrinth.com/data/eL35qVRr/6950cd02c5b32f8e720a388d4ad5a95f84aa0fc8_96.webp"
+  },
+  {
+    "name": "Talentium",
+    "version": "0.27+mod",
+    "download_url": "https://cdn.modrinth.com/data/a23o1xmu/versions/Wl8Ud1cp/talentium-0.27.jar",
+    "icon_url": "https://cdn.modrinth.com/data/a23o1xmu/10ba255b09530bab85f91ca5636308f8eff5c570_96.webp"
+  },
+  {
+    "name": "Classic Lucky Blocks",
+    "version": "1+mod",
+    "download_url": "https://cdn.modrinth.com/data/FwSEI02w/versions/qITiIOLz/classic-lucky-blocks-1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/FwSEI02w/a40d298dc691c16fff31e8930b70ad4e71dec830.png"
+  },
+  {
+    "name": "Origins: Kitsune",
+    "version": "1.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/U7G4EHLF/versions/QjWuFZim/origins-kitsune-1.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/U7G4EHLF/42bb5095b61d7c31c26bc98f35fe624b1ae17c66.png"
+  },
+  {
+    "name": "Armored Elytra",
+    "version": "1.4.2",
+    "download_url": "https://cdn.modrinth.com/data/xfDKtwBJ/versions/nGurJNeb/armored-elytra-1.4.2.zip",
+    "icon_url": "https://cdn.modrinth.com/data/xfDKtwBJ/9861b730913407a5688f884b70e88732c4f53aa4.png"
+  },
+  {
+    "name": "Dragonkind Evolved | End Battle Reborn",
+    "version": "1.6+mod",
+    "download_url": "https://cdn.modrinth.com/data/yo1bGdBx/versions/WAbP6kV9/dragonkind-evolved-1.6.jar",
+    "icon_url": "https://cdn.modrinth.com/data/yo1bGdBx/30fc6fe9b0f5635bcf5a96ba38a64622765a2984_96.webp"
+  },
+  {
+    "name": "AI Hunter",
+    "version": "v1.8.0",
+    "download_url": "https://cdn.modrinth.com/data/isBfH597/versions/HdCsEZkS/aihunter_v1.8.0.zip",
+    "icon_url": "https://cdn.modrinth.com/data/isBfH597/a387022c8c4f351ea2d2ddfd081ef24bc34d4e53_96.webp"
+  },
+  {
+    "name": "Vanilla Stoneblock",
+    "version": "1.2.4+mod",
+    "download_url": "https://cdn.modrinth.com/data/KF0KfY4k/versions/htaNfhHI/vanilla-stoneblock-1.2.4.jar",
+    "icon_url": "https://cdn.modrinth.com/data/KF0KfY4k/f6cb0b3216f03199df7c0558891d12a3d4ff7948_96.webp"
+  },
+  {
+    "name": "Physical Falling Trees",
+    "version": "1.6.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/Lex0Jv5I/versions/uWsWi3KK/physical-falling-trees-1.6.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Lex0Jv5I/80da7f0660fc113a49c029977a0d8cdbd463d4e6_96.webp"
+  },
+  {
+    "name": "Origins: Statures",
+    "version": "1.1.0+1.19",
+    "download_url": "https://cdn.modrinth.com/data/Lq0ZLcTa/versions/NBf7urZq/tinkerers-statures-1.1.0%2B1.19.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Lq0ZLcTa/icon.png"
+  },
+  {
+    "name": "Funky Flora",
+    "version": "1.5+mod",
+    "download_url": "https://cdn.modrinth.com/data/UJibvFJR/versions/wOqIj0AL/funky-flora-1.5.jar",
+    "icon_url": "https://cdn.modrinth.com/data/UJibvFJR/36b1f7f0c641fce3f33489f75a94745d33691be0_96.webp"
+  },
+  {
+    "name": "Create Ore Crushing Fix",
+    "version": "1.18.2-0.1",
+    "download_url": "https://cdn.modrinth.com/data/wbPmjTi5/versions/A7BjvuVk/Create_Ore_Crushing_Fix_1.18.2_v0.1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/wbPmjTi5/caeefb9759caf4c35b40ae43d793fcc57e3183b6_96.webp"
+  },
+  {
+    "name": "Blooming Biosphere",
+    "version": "1.1.2",
+    "download_url": "https://cdn.modrinth.com/data/Ds9FyUc7/versions/tMixZHya/blooming-biospshere-v1.1.2-1.21.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Ds9FyUc7/62961afcf370dea60dc090f0c6e9ca6309048a68_96.webp"
+  },
+  {
+    "name": "Legendary Pokemon Cobblemon",
+    "version": "1.20.1",
+    "download_url": "https://cdn.modrinth.com/data/FyI35LSH/versions/As0tJoRe/Legendary-Cobblemon-V1.9.zip",
+    "icon_url": "https://cdn.modrinth.com/data/FyI35LSH/969f5b1030c67d968784359a70ead0ea4844f388_96.webp"
+  },
+  {
+    "name": "True Survival",
+    "version": "6.1.2",
+    "download_url": "https://cdn.modrinth.com/data/gkoatUao/versions/Ou0zDtAl/Devon%27s%20TRUE%20SURVIVAL%20Ver%206.1.2.zip",
+    "icon_url": "https://cdn.modrinth.com/data/gkoatUao/c66a82427e1927e1bbc6dfcd595ce97d81fe6c36.png"
+  },
+  {
+    "name": "No Enderman Grief",
+    "version": "v.2.1.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/ss02V75k/versions/60P6f4CJ/no-enderman-grief-v.2.1.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/ss02V75k/2f5bc608674764ef0b40fbd1110962b317ec2e7f_96.webp"
+  },
+  {
+    "name": "Unwrecked Ships",
+    "version": "1.19-1.0.1",
+    "download_url": "https://cdn.modrinth.com/data/ae8EZLiC/versions/vcicfdg1/Unwrecked%20Ships%20Plus%201.19-1.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/ae8EZLiC/5eac7e80ad9dafec4ffad4478014d2fd5bd0a9e1_96.webp"
+  },
+  {
+    "name": "Better Cave Worlds",
+    "version": "v1.1.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/9HWnaQZO/versions/fTtW9g64/better-cave-worlds-v1.1.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/9HWnaQZO/3edb13d1b5753cf5bbc5ad9bb5345e36e59416d7_96.webp"
+  },
+  {
+    "name": "BubbleVehicles",
+    "version": "3.3c",
+    "download_url": "https://cdn.modrinth.com/data/NKWnJrQQ/versions/FpfpGK8J/%5B1.20.4%5D-bubblevehicles-3.3c.zip",
+    "icon_url": "https://cdn.modrinth.com/data/NKWnJrQQ/e645d90d7b83f760a274cd4e58dedad66b0ad431_96.webp"
+  },
+  {
+    "name": "Larger Ore Veins: Classic",
+    "version": "1.0.7+mod",
+    "download_url": "https://cdn.modrinth.com/data/PAmpGEL2/versions/5HR08rZI/larger-ore-veins-classic-1.0.7.jar",
+    "icon_url": ""
+  },
+  {
+    "name": "Cobblemon: Biosphere Expanded",
+    "version": "3.2",
+    "download_url": "https://cdn.modrinth.com/data/X3MPimby/versions/68wPEBLj/Additional%20Biome%20Mods%20Compat.zip",
+    "icon_url": "https://cdn.modrinth.com/data/X3MPimby/9253660df4d17e5ab905016e8e05b119bd5d6976_96.webp"
+  },
+  {
+    "name": "Progression Reborn Knives",
+    "version": "1.3.10+mod",
+    "download_url": "https://cdn.modrinth.com/data/V45JL0Gs/versions/G36OFgMb/progression-reborn-knives-1.3.10.jar",
+    "icon_url": "https://cdn.modrinth.com/data/V45JL0Gs/9531f87eec6431be4c26279865aa258e6d206ddb.png"
+  },
+  {
+    "name": "Gravestone Dungeons",
+    "version": "v1.5",
+    "download_url": "https://cdn.modrinth.com/data/4kbM1PkF/versions/mplDup8W/Gravestone%20Dungeons%20Datapack%20BETA%20v1.5%20by%20ZaccMaster.zip",
+    "icon_url": "https://cdn.modrinth.com/data/4kbM1PkF/fcd0cebf4ba15e569ef4f3a4271444d545c928d3_96.webp"
+  },
+  {
+    "name": "Larger Ore Veins: Diamond",
+    "version": "1.1.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/rZbXcApg/versions/YKITotDR/larger-ore-veins-diamond-1.1.3.jar",
+    "icon_url": ""
+  },
+  {
+    "name": "Origins: Ram",
+    "version": "2.0.1",
+    "download_url": "https://cdn.modrinth.com/data/4JHS6yj0/versions/rwBO0C1z/ram-origin-2.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/4JHS6yj0/5cc639c06ac7efbd9384da9e3fe4166999e69169_96.webp"
+  },
+  {
+    "name": "CTOV - Savage and Ravage Compat",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/p7P0HjJw/versions/j8sXQud0/ctov-savage-and-ravage-compat-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/p7P0HjJw/9851fba5b99db9cd60041c9f079927327d649393_96.webp"
+  },
+  {
+    "name": "Expanded Moveset Cobblemon",
+    "version": "4",
+    "download_url": "https://cdn.modrinth.com/data/cT7k9nrO/versions/MhsvP8YP/ExpandedMoveset-4.0.zip",
+    "icon_url": "https://cdn.modrinth.com/data/cT7k9nrO/d36c54e1acb1afbddc0aa9a8c10341b49c297969.png"
+  },
+  {
+    "name": "Colorful Trims",
+    "version": "1.7+mod",
+    "download_url": "https://cdn.modrinth.com/data/hCf7CjRg/versions/nAMucTys/colorful-trims-1.7.jar",
+    "icon_url": "https://cdn.modrinth.com/data/hCf7CjRg/bbd1ab4afced7bee819b98f91c9cba9c4e3b459b.png"
+  },
+  {
+    "name": "Lootery",
+    "version": "v2+mod",
+    "download_url": "https://cdn.modrinth.com/data/rKtVCJun/versions/8gujkLaW/lootery-v2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/rKtVCJun/454284a40f7ed8b2aa77d2ca373f2750e3525c6d.png"
+  },
+  {
+    "name": "Mo-Variants",
+    "version": "7.6.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/alk9mtOr/versions/AH1Z46EU/mo-variants-7.6.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/alk9mtOr/32777cab0563363fc680e6a4f70e2e0ed44aa769_96.webp"
+  },
+  {
+    "name": "Ultimate Bosses",
+    "version": "1.0.4+mod",
+    "download_url": "https://cdn.modrinth.com/data/VLtEVAG7/versions/20GVAQDw/ultimate-bosses-1.0.4.jar",
+    "icon_url": "https://cdn.modrinth.com/data/VLtEVAG7/dbbcbfe274665bf97e71327ff92ad8071bb31bc2_96.webp"
+  },
+  {
+    "name": "Origins: Volcanic Dragon",
+    "version": "2.0.1",
+    "download_url": "https://cdn.modrinth.com/data/xayzFXUU/versions/oZ3JvZVM/volcanic-dragon-origin-2.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/xayzFXUU/04925dda62ee3b452eac2b252e7bb6921a90835a_96.webp"
+  },
+  {
+    "name": "LIMBO Dimension Datapack",
+    "version": "2.9b+mod",
+    "download_url": "https://cdn.modrinth.com/data/KpbQh4CC/versions/udhFdIhm/limbo-dimension-datapack-2.9b.jar",
+    "icon_url": "https://cdn.modrinth.com/data/KpbQh4CC/a2b9572ac9ecbc38a77040d88f0c367e8e1b74fc_96.webp"
+  },
+  {
+    "name": "HephaesTools",
+    "version": "1.41",
+    "download_url": "https://cdn.modrinth.com/data/m5w6xC5L/versions/1A327GTK/hephaestools-1.41.jar",
+    "icon_url": "https://cdn.modrinth.com/data/m5w6xC5L/5e714b0dd4e901dbc1a27f2684390847a53f0873.png"
+  },
+  {
+    "name": "BeyondEnchant",
+    "version": "24w35a",
+    "download_url": "https://cdn.modrinth.com/data/t2pMCVgG/versions/mqkYQ6el/BeyondEnchant-Beta-24w55a.zip",
+    "icon_url": "https://cdn.modrinth.com/data/t2pMCVgG/57a43de552c4fb7c760594ead2b970a9f5ccdb58_96.webp"
+  },
+  {
+    "name": "Nether Weather",
+    "version": "1.1.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/XrxtjryC/versions/dKdh61TL/netherweather-1.1.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/XrxtjryC/c693ad94f375a7695f7159853131a1a0ea976c9e.png"
+  },
+  {
+    "name": "Trims Overhaul",
+    "version": "2.4.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/lBHH38D3/versions/L2HjzPmL/trims-overhaul-2.4.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/lBHH38D3/5b2dfe2855f9a0a18cebdcabd04360b49f08f69f_96.webp"
+  },
+  {
+    "name": "BetterZ",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/LOy78UQh/versions/49wfNpDV/betterz-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/LOy78UQh/9a68036f98e5eaf232edbd1d35391f2e834e33ff_96.webp"
+  },
+  {
+    "name": "Enderite Upgrade",
+    "version": "v5+mod",
+    "download_url": "https://cdn.modrinth.com/data/rUMMUMK4/versions/bYYNlNw4/enderite-upgrade-v5.jar",
+    "icon_url": "https://cdn.modrinth.com/data/rUMMUMK4/3442d10bc6bd6848ca6d513d82b1635023e576f9.png"
+  },
+  {
+    "name": "Teletransportation Accept (TPA)",
+    "version": "1.3.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/6h6n9XJ9/versions/17MKQ6IP/tpa-1.3.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/6h6n9XJ9/393d7ccbcafabf47016bea7d405811b6b54ae09a.png"
+  },
+  {
+    "name": "Amplified Nether Height",
+    "version": "1.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/8YzB9eVH/versions/5FTN0Pp4/amplified-nether-height-1.1.jar",
+    "icon_url": ""
+  },
+  {
+    "name": "Beyond the Clouds",
+    "version": "1.2",
+    "download_url": "https://cdn.modrinth.com/data/XN5T9Qp5/versions/La7M23XR/beyond_the_clouds_1.2.zip",
+    "icon_url": "https://cdn.modrinth.com/data/XN5T9Qp5/6a6c4c8041d80d8e67d6543ce77bb2009b8790ed_96.webp"
+  },
+  {
+    "name": "qrafty's Mangrove Villages",
+    "version": "2.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/cqNgIqx3/versions/fm4DBY8l/qraftys-mangrove-villages-2.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/cqNgIqx3/1939ee6989e8f2e0b8c25fb93d66a21bbd5901dc_96.webp"
+  },
+  {
+    "name": "Farmer's Cutting: Biomes O' Plenty",
+    "version": "1.1.0-1.20.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/QWfaJXEc/versions/xroQMKdK/farmers-cutting-biomes-o-plenty-1.1.0-1.20.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/QWfaJXEc/0e6bb2a1d8f07c877670793e3028693f6d78cf62.png"
+  },
+  {
+    "name": "Seasons Data Pack",
+    "version": "0.2",
+    "download_url": "https://cdn.modrinth.com/data/sTnFU4hH/versions/IfU4OMoA/seasons.zip",
+    "icon_url": "https://cdn.modrinth.com/data/sTnFU4hH/d551d7685ede39d3ec30f05aac2c4c47c6732d69_96.webp"
+  },
+  {
+    "name": "Simple Hydration",
+    "version": "1.0",
+    "download_url": "https://cdn.modrinth.com/data/UArwG7u6/versions/AjhfCACG/simple-hydration-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/UArwG7u6/9564afaec18239a7b0d3c4c1a69eb454ddaef255.png"
+  },
+  {
+    "name": "80% Abandoned Villages",
+    "version": "v1.0.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/fLAIO8XF/versions/260YOVzN/abandoned-villages-v1.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/fLAIO8XF/2b28d7e01921d9c314da85ff0c50ab3f02291a41.jpeg"
+  },
+  {
+    "name": "WaviMons (Cobblemon)",
+    "version": "1.1",
+    "download_url": "https://cdn.modrinth.com/data/Vv4Y7ghL/versions/PxL9MTzH/Wavimons1.1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/Vv4Y7ghL/fbb569c3bf46788e828f39678df65d3174fcb12d.png"
+  },
+  {
+    "name": "Bundle Craft",
+    "version": "1.6.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/yz6ASAKe/versions/QPxRbaGx/bundle-craft-1.6.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/yz6ASAKe/d0fd7f277cb142cffc63b8d33ffdda3d0e35ddc0.webp"
+  },
+  {
+    "name": "Navigable Rivers",
+    "version": "1.0.1",
+    "download_url": "https://cdn.modrinth.com/data/3WdnBc3t/versions/l8XxZO8T/navigable-rivers-v1.0.1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/3WdnBc3t/f2f905dfae2e022b02616b9b73b1fd31d6749657_96.webp"
+  },
+  {
+    "name": "CTOV - Domesticated Innovation Compat",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/BORRKwOq/versions/Te91BHKO/ctov-domesticated-innovation-compat-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/BORRKwOq/0308ce0081a5e8a16678947069b82338ccdddf26_96.webp"
+  },
+  {
+    "name": "Hallucinate",
+    "version": "1.2.0.21+mod",
+    "download_url": "https://cdn.modrinth.com/data/ezNcmZjv/versions/opJ1XuMR/kyb-hallucinate-1.2.0.21.jar",
+    "icon_url": "https://cdn.modrinth.com/data/ezNcmZjv/ab2b79a566e49abf7673eba49fab710f1eba7db1_96.webp"
+  },
+  {
+    "name": "Create Point Blank",
+    "version": "2.0",
+    "download_url": "https://cdn.modrinth.com/data/znsZxJjU/versions/hf9ZWTOn/createpointblank2.0.zip",
+    "icon_url": "https://cdn.modrinth.com/data/znsZxJjU/5824cb40f86b5d51829c4c9d8ad16ff05e776209_96.webp"
+  },
+  {
+    "name": "Random Island",
+    "version": "1.7.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/zXGThYpi/versions/bXdLjSxL/randomisland-1.7.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/zXGThYpi/b4ab1c8a338256413f2382532b7f2faf231e9abf_96.webp"
+  },
+  {
+    "name": "Vanilla Friendly Structures",
+    "version": "1.0.6+mod",
+    "download_url": "https://cdn.modrinth.com/data/InKbRcdX/versions/X8LPgIKP/vanilla-friendly-structures-1.0.6.jar",
+    "icon_url": "https://cdn.modrinth.com/data/InKbRcdX/cf57584672c43bcb9a8889b5b6d05921b0e46e92_96.webp"
+  },
+  {
+    "name": "Craftable",
+    "version": "1.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/5PJh9pCi/versions/drzMBGMW/craftable-qss-1.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/5PJh9pCi/9a07aec88c74c099381af5968e0537d490c8775a_96.webp"
+  },
+  {
+    "name": "qrafty's Underground Villages",
+    "version": "2.2+mod",
+    "download_url": "https://cdn.modrinth.com/data/xlB8CNvE/versions/jUD6K6Ev/qraftys-bunkers-2.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/xlB8CNvE/7592732158a281316a4fb586d92e4fb4a0eae61f_96.webp"
+  },
+  {
+    "name": "Useful Mobs",
+    "version": "2.4+mod",
+    "download_url": "https://cdn.modrinth.com/data/elYq283b/versions/ZiNKVyID/useful-mobs-2.4.jar",
+    "icon_url": "https://cdn.modrinth.com/data/elYq283b/98c6e007273cd11117a0c8d69f26fa82597aa311_96.webp"
+  },
+  {
+    "name": "lava rising",
+    "version": "2022.1202+mod",
+    "download_url": "https://cdn.modrinth.com/data/c5Tg7SKf/versions/XnK1PF0D/lavarising-2022.1202.jar",
+    "icon_url": "https://cdn.modrinth.com/data/c5Tg7SKf/1bcdde4246b7911460c1891e54e89981c4ee97f6.png"
+  },
+  {
+    "name": "Spawners Drop Treasure",
+    "version": "1.0.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/lbF2JjAi/versions/xXwwXV4O/spawners-drop-treasure-1.0.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/lbF2JjAi/7f85eefba9bcf3463621e25a9af14b42b5baa7e3.png"
+  },
+  {
+    "name": "Bubblellaneous",
+    "version": "2.1.5",
+    "download_url": "https://cdn.modrinth.com/data/jDGGUJ9V/versions/DcCEW5f2/bubblellaneous_2-1-5_data_pack.zip",
+    "icon_url": "https://cdn.modrinth.com/data/jDGGUJ9V/701117b5d91a0bac8ec4e266adf31f12233f9328.png"
+  },
+  {
+    "name": "Death Animations [WIP]",
+    "version": "v1.4+mod",
+    "download_url": "https://cdn.modrinth.com/data/v2b8FzRy/versions/cm1IiUae/death-animations-v1.4.jar",
+    "icon_url": "https://cdn.modrinth.com/data/v2b8FzRy/3d4ee1fb5c51a8fb3e3c467aae8374a387afbb9d_96.webp"
+  },
+  {
+    "name": "CTOV - Immersive Engineering Compat",
+    "version": "2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/Zi15pXgt/versions/6zcErTq1/ctov-immersive-engineering-compat-2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Zi15pXgt/d677ab1725daae2d9bc3f9c887b9ab1cf1382d87_96.webp"
+  },
+  {
+    "name": "Cliffs and Coves",
+    "version": "1.0.1",
+    "download_url": "https://cdn.modrinth.com/data/EwuS4aoq/versions/FbOCR46M/cliffs-and-coves-v1-0-1.zip",
+    "icon_url": "https://cdn.modrinth.com/data/EwuS4aoq/1fdcb1b5d74dbdb725cd9b432bd6556ce2c0cb45_96.webp"
+  },
+  {
+    "name": "CTOV - Paragliders compat",
+    "version": "1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/a2GCqbko/versions/TzMOh3hR/ctov-paragliders-compat-1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/a2GCqbko/c409cc3fec3a84ac43bdb343fa6fd0dc166aff64_96.webp"
+  },
+  {
+    "name": "Shellos and Gastrodon [Cobblemon]",
+    "version": "1.0.2",
+    "download_url": "https://cdn.modrinth.com/data/PwQByNiG/versions/4c44YUYn/Shellos_Gastrodon_v1.0.2.zip",
+    "icon_url": "https://cdn.modrinth.com/data/PwQByNiG/bbe4ec97898256c57a4d485bad67f4843e0e2598.png"
+  },
+  {
+    "name": "Repurposed Structures - Better Nether Fortress Compat",
+    "version": "8",
+    "download_url": "https://cdn.modrinth.com/data/7vT7Bwz9/versions/IdqjRs86/Repurposed_Structures-Better_Nether_Fortress_v8.zip",
+    "icon_url": "https://cdn.modrinth.com/data/7vT7Bwz9/9b7ced7d013fbb33b6aceed87a00677de63da083_96.webp"
+  },
+  {
+    "name": "Extra Recipe",
+    "version": "2.3",
+    "download_url": "https://cdn.modrinth.com/data/7AXsRqp1/versions/nOoP5LyU/%5BAll%20Loader%5DExtra%20Recipe-2.3-26.jar",
+    "icon_url": "https://cdn.modrinth.com/data/7AXsRqp1/67c0c796fe42a284e0a26cd326645b4b81b2be5c.png"
+  },
+  {
+    "name": "Pokemans Pack [Cobblemon]",
+    "version": "5.1",
+    "download_url": "https://cdn.modrinth.com/data/GFYCh249/versions/pfDruqEL/pokemans_v9.72.zip",
+    "icon_url": "https://cdn.modrinth.com/data/GFYCh249/f0ab0d85990e2f28ba5d3174196bac3b9e4ff71e_96.webp"
+  },
+  {
+    "name": "no f3",
+    "version": "1+mod",
+    "download_url": "https://cdn.modrinth.com/data/MPFUV2Ds/versions/8mw8OXUF/no-f3-1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/MPFUV2Ds/651cd1b53dc599616cdb6fff5aadf4ed89d0f7b1_96.webp"
+  },
+  {
+    "name": "All Arrows Infinity Fix",
+    "version": "1.7.2",
+    "download_url": "https://cdn.modrinth.com/data/M4qHqBBo/versions/hgv1a3Cc/allarrowsinfinityfix-1.7.2-fabric-mc1.21.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/M4qHqBBo/06ac04fd6f42d23587d277f8d03a29734ff26493.png"
+  },
+  {
+    "name": "Repurposed Structures - Better Desert Temples Compat",
+    "version": "10",
+    "download_url": "https://cdn.modrinth.com/data/mKaYfrOy/versions/oGT0wBYd/Repurposed_Structures-Better_Desert_Temples_v10.zip",
+    "icon_url": "https://cdn.modrinth.com/data/mKaYfrOy/a032e5a76df905c4a85f2d1d9fad1d7b04acbb5f_96.webp"
+  },
+  {
+    "name": "Axel's Tables and Chairs",
+    "version": "5.3+mod",
+    "download_url": "https://cdn.modrinth.com/data/ElnjwLgg/versions/8rsZPQom/tables-and-chairs-5.3.jar",
+    "icon_url": "https://cdn.modrinth.com/data/ElnjwLgg/558009c5cc198b1ab40f683e2c39ff69f7a4698a_96.webp"
+  },
+  {
+    "name": "Desert Scourge",
+    "version": "1.2",
+    "download_url": "https://cdn.modrinth.com/data/wseEf42M/versions/UAk6uPaT/desert-scourge-1.2.jar",
+    "icon_url": "https://cdn.modrinth.com/data/wseEf42M/6c5ffd689a3162d09b20728b9e3955a4391c4c67_96.webp"
+  },
+  {
+    "name": "Cobblemon Uncommon Starters",
+    "version": "2.0",
+    "download_url": "https://cdn.modrinth.com/data/RWiGYHs6/versions/VGHh7PB9/Uncommon%20Starters.zip",
+    "icon_url": "https://cdn.modrinth.com/data/RWiGYHs6/4c0fc9135560353c7053247d0a4384d96e84abbc.png"
+  },
+  {
+    "name": "Lifesteal",
+    "version": "1.2",
+    "download_url": "https://cdn.modrinth.com/data/YBKANbU3/versions/2iBZTtp2/lifesteal_1.21.zip",
+    "icon_url": "https://cdn.modrinth.com/data/YBKANbU3/0a850613cc68ecedbec86c2875cfa760154c23ff.png"
+  },
+  {
+    "name": "LocalizedFishingTables",
+    "version": "3.0.0-t+mod",
+    "download_url": "https://cdn.modrinth.com/data/BOaS7IZn/versions/GC2DkaQ2/localizedfishingtables-3.0.0-t.jar",
+    "icon_url": "https://cdn.modrinth.com/data/BOaS7IZn/7740947e7e664534451e2b0a7fd2a9d20eeb5f8d.png"
+  },
+  {
+    "name": "Optimizer",
+    "version": "1.1.0",
+    "download_url": "https://cdn.modrinth.com/data/K4Ytaql5/versions/JopeQdn3/Optimizer%201.1.0%20%281.13-1.21.1%29.jar",
+    "icon_url": "https://cdn.modrinth.com/data/K4Ytaql5/79ad410c7baf257e63eb48327ab727ec747dcf23_96.webp"
+  },
+  {
+    "name": "Injured Effects",
+    "version": "1.4.3b+mod",
+    "download_url": "https://cdn.modrinth.com/data/qmzLjXzU/versions/lk4VwZLB/injured-effects-1.4.3b.jar",
+    "icon_url": "https://cdn.modrinth.com/data/qmzLjXzU/2a5f5c32086fd6b94f5268610cdf328227e912d8_96.webp"
+  },
+  {
+    "name": "No More Ruined Portals",
+    "version": "1.0.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/Vf9nOP5y/versions/WExSBD2f/no-more-ruined-portals-1.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Vf9nOP5y/e11be7c482164e55a2b11a5ee19a42c7fffee973_96.webp"
+  },
+  {
+    "name": "Yggdrasil",
+    "version": "24w35a",
+    "download_url": "https://cdn.modrinth.com/data/hwNDseBp/versions/NiWJG3B7/Yggdrasil-24w35a.zip",
+    "icon_url": "https://cdn.modrinth.com/data/hwNDseBp/d61e1a2471ee2540d7c8f156a55709d4aa56420a_96.webp"
+  },
+  {
+    "name": "Craftemon",
+    "version": "1.7.1",
+    "download_url": "https://cdn.modrinth.com/data/JpUO852K/versions/C8B1vNPJ/Craftemon.zip",
+    "icon_url": "https://cdn.modrinth.com/data/JpUO852K/01746e8cf8321d1f9b3672f24c08969a63ee9e89.png"
+  },
+  {
+    "name": "Infection Overwritten",
+    "version": "8+mod",
+    "download_url": "https://cdn.modrinth.com/data/5znuPLNT/versions/6XMmOV6y/infection-overwritten-8.jar",
+    "icon_url": "https://cdn.modrinth.com/data/5znuPLNT/f4c8e3a691b9b0598b51901170432d605fc9a0f9_96.webp"
+  },
+  {
+    "name": "Superflat+",
+    "version": "1.0",
+    "download_url": "https://cdn.modrinth.com/data/emFRuvHt/versions/iiqvflkI/SuperFlat%2B%20-%201.19.x.zip",
+    "icon_url": "https://cdn.modrinth.com/data/emFRuvHt/08656ff518db18def63e2f2775742490029b0d94_96.webp"
+  },
+  {
+    "name": "Xaero's Map Server Utils",
+    "version": "1.0.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/YJgkgKMm/versions/URN5H2cw/xaeros-map-server-utils-1.0.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/YJgkgKMm/9df879d81fc1aed2d81492c6461fff37fc89bb6b_96.webp"
+  },
+  {
+    "name": "Craftable Totem of Undying",
+    "version": "1.21.1-0.1",
+    "download_url": "https://cdn.modrinth.com/data/NIxz6uyE/versions/KiOZclD5/craftabletotemofundying-1.21.1-0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/NIxz6uyE/bfe5088f209a132d70fd52b91f74e4500ded95bf.png"
+  },
+  {
+    "name": "Compass Tracker",
+    "version": "1.2.3",
+    "download_url": "https://cdn.modrinth.com/data/GvG2CaJa/versions/5LgDxQTL/Compass-Tracker.zip",
+    "icon_url": "https://cdn.modrinth.com/data/GvG2CaJa/a21bb6402a8a708f77fe042bc94b8e06eda4584c_96.webp"
+  },
+  {
+    "name": "Alien End",
+    "version": "1.4",
+    "download_url": "https://cdn.modrinth.com/data/E8kMzoSt/versions/18TX05Xu/Alien%20End%201.4.zip",
+    "icon_url": "https://cdn.modrinth.com/data/E8kMzoSt/b03b2438e9dc7c0f54ca3a89748bd48429f7ab78.png"
+  },
+  {
+    "name": "Balanced Weapons",
+    "version": "1.0.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/dD3Ehzqi/versions/15uDPuLG/balanced-weapons-1.0.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/dD3Ehzqi/c95c0e9f6051b5076e78bbd29ef5be21c796d8f7.webp"
+  },
+  {
+    "name": "Better Mace",
+    "version": "1.0.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/C36CZGrl/versions/vejEtATT/mace-1.0.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/C36CZGrl/ccb43d9360360c188d0cc029f5b421d9fe8b7d77.png"
+  },
+  {
+    "name": "Mineable Spawner",
+    "version": "v.1.2.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/vj1HfksH/versions/sS2XicpS/mineable-spawner-v.1.2.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/vj1HfksH/51dc80eb70474a5358d8f09366a20f4ff6991b50_96.webp"
+  },
+  {
+    "name": "Norse Adventure",
+    "version": "1.1.0",
+    "download_url": "https://cdn.modrinth.com/data/AG7Je2MZ/versions/OmKgCRIM/Norse-Adventure-v1.1.0.zip",
+    "icon_url": "https://cdn.modrinth.com/data/AG7Je2MZ/f553c6e5cf5eac6d7f930334dde1772f9502e8e0_96.webp"
+  },
+  {
+    "name": "Better Pets",
+    "version": "v3.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/5XRPRPTb/versions/EZHzx5uj/betterpets-v3.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/5XRPRPTb/21d71e9ea018e6f410bf71f786769fea8c6e9311_96.webp"
+  },
+  {
+    "name": "Auto Aim",
+    "version": "1.3",
+    "download_url": "https://cdn.modrinth.com/data/1vPuYC4Y/versions/G49xlRTA/Auto%20Aim%201.3v%2021%2B%20.jar",
+    "icon_url": "https://cdn.modrinth.com/data/1vPuYC4Y/1145e02e67116536a5116aef45eb5d7d076b8740_96.webp"
+  },
+  {
+    "name": "Origins: Moon Gazer",
+    "version": "4.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/cqUHD0Wb/versions/t8E4HMm3/origins-moon-gazer-4.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/cqUHD0Wb/75aad7ad35ef5717aa9438beaae04ab716842315.png"
+  },
+  {
+    "name": "Shulkers Drop Two Shells",
+    "version": "v.2.1.0+mod",
+    "download_url": "https://cdn.modrinth.com/data/ZHZLKDpx/versions/eszRExd4/two-shulker-shells-drop-v.2.1.0.jar",
+    "icon_url": "https://cdn.modrinth.com/data/ZHZLKDpx/78e454cb4ce3a4758e4903277481eaf15a21d2a5_96.webp"
+  },
+  {
+    "name": "Ashen's Zombie Apocalypse",
+    "version": "1.0.1+mod",
+    "download_url": "https://cdn.modrinth.com/data/Ik4MAnIs/versions/w9L7oVu8/ashens-zombie-apocalypse-1.0.1.jar",
+    "icon_url": "https://cdn.modrinth.com/data/Ik4MAnIs/8a928bf1103a1ea8c7eb2ce78ce6f4db5d1e103e_96.webp"
+  }
+]
